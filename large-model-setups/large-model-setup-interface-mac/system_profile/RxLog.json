@@ -1,0 +1,21 @@
+{
+  "system_name": "RxLog",
+  "functionality": "System for ordering and storage of medication, developed by VGR. Supporting system to streamline the administrative process of medication storage and medication distribution.",
+  "users": [
+    "Specialists",
+    "Internal staff at VGR"
+  ],
+  "data": [
+    "Personal data",
+    "Health data"
+  ],
+  "environment": [
+    "On-premisse"
+  ],
+  "ai_system": false,
+  "ai_components": "",
+  "accessability": [
+    "Internal network only"
+  ],
+  "criticality": "Medium \u2013 operational impact"
+}

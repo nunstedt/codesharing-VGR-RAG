@@ -1,0 +1,20 @@
+- .   For  all  of  its  personnel  referred  to  in  Sections    to  ,  the  notified  body  shall  establish  and  maintain  up  to date:
+- -  a matrix detailing the authorisations and responsibilities of  the personnel in respect of conformity assessment activities; and
+- -  records  attesting  to  the  required  knowledge  and  experience  for  the  conformity  assessment  activity  for  which they are authorised. The records shall contain a rationale for defining the scope of  the responsibilities for each of  the assessment personnel and records of the conformity assessment activities carried out by each of them.
+## . Subcontractors and external experts
+- .   Notified  bodies  may,  without  prejudice  to  Section  ,  subcontract  certain  clearly  defined  component  parts  of a conformity assessment activity.
+The subcontracting of  the auditing of quality management systems or of product related reviews as a whole shall not be permitted; nevertheless parts of  those activities may be conducted by subcontractors and external auditors and  experts  working  on  behalf  of  the  notified  body.  The  notified  body  in  question  shall  retain  full  responsibility for  being  able  to  produce  appropriate  evidence  of  the  competence  of  subcontractors  and  experts  to  fulfil  their specific  tasks,  for  making  a  decision  based  on  a  subcontractor's  assessment  and  for  the  work  conducted  by subcontractors and experts on its behalf.
+The following activities may not be subcontracted by notified bodies:
+- -  review of the qualifications and monitoring of the performance of external experts;
+- - auditing and certification  activities  where  the  subcontracting  in  question  is  to  auditing  or  certification  organ­ isations;
+- -  allocation of work to external experts for specific conformity assessment activities; and
+- -  final review and decision making functions.
+- .   Where  a  notified  body  subcontracts  certain  conformity  assessment  activities  either  to  an  organisation  or  an individual,  it  shall  have  a  policy  describing  the  conditions  under  which  subcontracting  may  take  place,  and  shall ensure that:
+- -  the subcontractor meets the relevant requirements of this Annex;
+- -  subcontractors and external experts do not further subcontract work to organisations or personnel; and
+- -  the  natural  or  legal  person  that  applied  for  conformity  assessment  has  been  informed  of  the  requirements referred to in the first and second indent.
+Any  subcontracting  or  consultation  of  external  personnel  shall  be  properly  documented,  shall  not  involve  any intermediaries  and  shall  be  subject  to  a  written  agreement  covering,  among  other  things,  confidentiality  and conflicts of interest. The notified body in question shall take full responsibility for  the tasks performed by subcon­ tractors.
+- .   Where  subcontractors  or  external  experts  are  used  in  the  context  of  a  conformity  assessment,  in  particular regarding  novel,  invasive  and  implantable  devices  or  technologies,  the  notified  body  in  question  shall  have internal  competence  in  each  product  area  for  which  it  is  designated  that  is  adequate  for  the  purpose  of  leading the  overall  conformity  assessment,  verifying  the  appropriateness  and  validity  of  expert  opinions  and  making decisions on certification.
+## . Monitoring of competences, training and exchange of experience
+- .   The notified body shall establish procedures for the initial evaluation and on-going monitoring of the competence, conformity assessment activities and performance of all internal and external personnel, and subcon­ tractors, involved in conformity assessment activities.
+- .   Notified  bodies  shall  review  at  regular  intervals,  the  competence  of  their  personnel,  identify  training  needs  and draw  up  a  training  plan  to  maintain  the  required  level  of  qualification  and  knowledge  of  individual  personnel. 

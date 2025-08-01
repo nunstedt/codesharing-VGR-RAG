@@ -1,0 +1,1 @@
+- .   The  notified  body  shall  have  permanent  availability  of  personnel  with  relevant  clinical  expertise  and  where possible  such  personnel  shall  be  employed  by  the  notified  body  itself.  

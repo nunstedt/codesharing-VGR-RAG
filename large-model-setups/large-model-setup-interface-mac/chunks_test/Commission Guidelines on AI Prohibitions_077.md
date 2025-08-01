@@ -1,0 +1,1 @@
+See also Article 29 Working Party, Guidelines on Automated individual decision making and Profiling for the purposes of Regulation 2016/679, WP251rev.01, , p. 

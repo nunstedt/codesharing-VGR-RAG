@@ -1,0 +1,19 @@
+{
+  "system_name": "Richard",
+  "functionality": "Richard",
+  "users": [
+    "Specialists"
+  ],
+  "data": [
+    "Health data"
+  ],
+  "environment": [
+    "Unknown"
+  ],
+  "ai_system": true,
+  "ai_components": "Richard",
+  "accessability": [
+    "Other"
+  ],
+  "criticality": "High \u2013 safety/life-critical or vital to operations"
+}

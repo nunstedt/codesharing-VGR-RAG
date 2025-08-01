@@ -1,0 +1,2 @@
+- 11. The obligations laid down in this Directive shall not entail the supply of information the disclosure of which would be contrary to the essential interests of Member States' national security, public security or defence.
+- 12. 

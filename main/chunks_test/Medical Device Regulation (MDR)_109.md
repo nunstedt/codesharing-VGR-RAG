@@ -1,0 +1,48 @@
+The  UDI  carrier  (AIDC  and  HRI  representation  of  the  UDI)  shall  be  placed  on  the  label  or  on  the  device  itself and on all higher levels of device packaging. Higher levels do not include shipping containers.
+- . In  the  event  of  there  being  significant  space  constraints  on  the  unit  of  use  packaging,  the  UDI  carrier  may  be placed on the next higher packaging level.
+- . For single-use devices of classes I and IIa packaged and labelled individually, the UDI carrier shall not be required to  appear  on  the  packaging  but  it  shall  appear  on  a  higher  level  of  packaging,  e.g.  a  carton  containing  several individually  packaged  devices.  However,  when  the  healthcare  provider  is  not  expected  to  have  access,  in  cases such  as  in  home  healthcare  settings,  to  the  higher  level  of  device  packaging,  the  UDI  shall  be  placed  on  the packaging of the individual device.
+- . For  devices  exclusively  intended  for  retail  point  of  sale  the  UDI-PIs  in  AIDC  shall  not  be  required  to  appear  on the point of sale packaging.
+- . When AIDC carriers other  than the UDI carrier are part of  the product labelling, the UDI carrier shall be readily identifiable.
+- . If  linear  bar  codes  are  used,  the  UDI-DI  and  UDI-PI  may  be  concatenated  or  non-concatenated  in  two  or  more bar codes. All parts and elements of the linear bar code shall be distinguishable and identifiable.
+- . If  there  are  significant  constraints  limiting  the  use  of  both  AIDC  and  HRI  on  the  label,  only  the  AIDC  format shall  be  required  to  appear  on  the  label.  For  devices  intended  to  be  used  outside  healthcare  facilities,  such  as devices  for  home  care,  the  HRI  shall  however  appear  on  the  label  even  if  this  results  in  there  being  no  space  for the AIDC.
+- . The HRI format shall follow the rules of the UDI code-issuing entity.
+- . If  the  manufacturer  is  using  RFID  technology,  a  linear  or  2D  bar  code  in  line  with  the  standard  provided  by  the issuing entities shall also be provided on the label.
+- . Devices  that  are  reusable  shall  bear  a  UDI  carrier  on  the  device  itself.  The  UDI  carrier  for  reusable  devices  that require  cleaning,  disinfection,  sterilisation  or  refurbishing  between  patient  uses  shall  be  permanent  and  readable after  each  process  performed  to  make  the  device  ready  for  the  subsequent  use  throughout  the  intended  lifetime of  the device. The requirement of this Section shall not apply to devices in the following circumstances:
+- (a)   any type of direct marking would interfere with the safety or performance of the device;
+- (b)   the  device cannot be directly marked because it is not technologically feasible.
+- . The UDI carrier shall be readable during normal use and throughout the intended lifetime of the device. - . If  the  UDI  carrier  is  readily  readable  or,  in  the  case  of  AIDC,  scannable,  through  the  device's  packaging,  the placing of the UDI carrier on the packaging shall not be required.
+- . In  the  case  of  single  finished  devices  made  up  of  multiple  parts  that  must  be  assembled  before  their  first  use,  it shall be sufficient to place the UDI carrier on only one part of each device.
+- . The  UDI  carrier  shall  be  placed  in  a  manner  such  that  the  AIDC  can  be  accessed  during  normal  operation  or storage.
+- . Bar  code  carriers  that  include  both  a  UDI-DI  and  a  UDI-PI  may  also  include  essential  data  for  the  device  to operate or other data.
+- 5. General principles of the UDI database
+- . The  UDI  database  shall  support  the  use  of  all  core  UDI  database  data  elements  referred  to  in  Part  B  of  this Annex.
+- . Manufacturers  shall  be  responsible  for  the  initial  submission  and  updates  of  the  identifying  information  and other device data elements in the UDI database.
+- . Appropriate methods/procedures for validation of the data provided shall be implemented.
+- . Manufacturers  shall  periodically  verify  the  correctness  of  all  of  the  data  relevant  to  devices  they  have  placed  on the market, except for devices that are no longer available on the market.
+- . The  presence  of  the  device  UDI-DI  in  the  UDI  database  shall  not  be  assumed  to  mean  that  the  device  is  in conformity with this Regulation.
+- . The database shall allow for  the linking of all the packaging levels of the device.
+- . The data for new UDI-DIs shall be available at the time the device is placed on the market.
+- . Manufacturers  shall  update  the  relevant  UDI  database  record  within  30  days  of  a  change  being  made  to  an element, which does not require a new UDI-DI.
+- . Internationally-accepted  standards  for  data  submission  and  updates  shall,  wherever  possible,  be  used  by  the  UDI database.
+- . The  user  interface  of  the  UDI  database  shall  be  available  in  all  official  languages  of  the  Union.  The  use  of  freetext fields shall, however, be minimized in order  to reduce translations.
+- . Data relating to devices that are no longer available on the market shall be retained in the UDI database.
+- 6. Rules for specific device types
+- . Implantable devices:
+- . Implantable  devices  shall,  at  their  lowest  level  of  packaging  ('unit  packs'),  be  identified,  or  marked  using  AIDC, with a UDI (UDI-DI + UDI-PI);
+- . The UDI-PI shall have at least the following characteristics:
+- (a)   the  serial  number  for active implantable devices,
+- (b)   the  serial  number or lot number for other implantable devices.
+- . The UDI of the implantable device shall be identifiable prior  to implantation.
+- . Reusable devices requiring cleaning, disinfection, sterilisation or refurbishing between uses
+- . The  UDI  of  such  devices  shall  be  placed  on  the  device  and  be  readable  after  each  procedure  to  make  the  device ready for  the next use.
+- . The UDI-PI characteristics such as the lot or serial number shall be defined by the manufacturer. - . Systems and procedure packs as referred to in Article 22
+- . The natural  or  legal  person  referred  to  in  Article  22  shall  be  responsible  for  identifying  the  system  or  procedure pack with a UDI including both UDI-DI and UDI-PI.
+- . Device contents of system or procedure packs shall bear a UDI carrier on their packaging or on the device itself.
+- Exemptions:
+- (a)   individual  single-use disposable devices, the uses of which are generally known to the persons by whom they are intended to be used, which are contained within a system or procedure pack, and which are not intended for  individual  use  outside  the  context  of  the  system  or  procedure  pack,  shall  not  be  required  to  bear  their own UDI carrier;
+- (b)   devices  that  are  exempted from bearing a UDI carrier on the relevant level of packaging shall not be required to bear a UDI carrier  when included within a system or procedure pack.
+- . Placement of the UDI carrier on systems or procedure packs
+- (a)   The system or procedure pack UDI carrier shall as a general rule be affixed to the outside of the packaging.
+- (b)   The  UDI  carrier  shall  be  readable,  or,  in  the  case  of  AIDC,  scannable,  whether  placed  on  the  outside  of  the packaging of the system or procedure pack or inside transparent packaging.
+- . Configurable devices:
+- . 

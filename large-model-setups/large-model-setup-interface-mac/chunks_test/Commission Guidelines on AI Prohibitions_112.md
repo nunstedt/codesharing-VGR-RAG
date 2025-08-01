@@ -1,0 +1,16 @@
+ECLI:CE:ECHR:2023:0704JUD001151920, paragraphs 88 and 90 (hereinafter referred to as the ' Glukhin v Russia judgment').
+229 See  also  for  data  collection:  Judgment  of  the  Court  of  Justice  of  28  November  2024, Ministerstvo  na  vatreshnite  raboti ECLI:EU:C:2024:991.
+11519/20, ,  C-80/23,
+230 Automatically generated data logs must be kept for at least 6 months for high-risk AI systems and shall include for the high-risk systems mentioned in point 1(a) of Annex III for each use the start and end data and time. See Article  (a) and Article 19 AI Act.
+## . Immediate cessation in case the request for authorisation is rejected and deletion of the data
+- (403) Article  5(3)  AI  Act  further  provides  that  if  an  authorisation  request  in  the  case  of urgency  is  rejected,  the  use  of  the  real-time  RBI  system  should  be  ceased  with immediate effect. In such cases, all the data, including the results and outputs of that use, must be immediately discarded and deleted. 231 Article 5(3) AI Act is explicit in this regard, without exception. The deployer will have:
+- a) a  reference  database,  containing  the  biometric  information  (e.g.,  facial  images, voice snippets, ….) and related identifying information, if applicable, against which
+- b) captured biometric information from individuals present in the publicly accessible space is compared to identify and single out those individuals.
+- c) This comparison will lead to the comparison result.
+(404) The requirement to discard and delete the data collected and processed also means that the reference database(s) used for the unauthorized biometric identification  must be removed and deleted if it was built specifically for the contested search. Only where the law enforcement authorities had built and intended to maintain the database used for identification in a lawful manner for legitimate aims other than for the unauthorized use of real-time RBI may the database be maintained.
+- (405) Besides  the  deletion  of  any  (unlawful)  database  with  biometric  information,  all  the collected images and other personal data, including the meta data, technical processing data, including the templates and other personal data, and other comparison - and output data obtained during the unlawful use of the real-time RBI system must also be deleted.
+(406) Where the law enforcement authority challenges the rejection, the data may be kept by a trustee until a final decision has been taken on the request. During that period, those data should normally not be placed at the disposal of the law enforcement authority 310 .
+## . No decision-making solely on the output of the real-time RBI system
+(407) In accordance with Article 5(3) AI Act, even where the deployer of a real-time RBI system obtains an authorisation, no decision that produces an adverse legal effect on a person may be taken based solely on the output of the 'real-time' RBI system.
+## For example:
+- - A person is arrested and imprisoned for a serious crime solely based on identification by a facial recognition system, without any further checks. 

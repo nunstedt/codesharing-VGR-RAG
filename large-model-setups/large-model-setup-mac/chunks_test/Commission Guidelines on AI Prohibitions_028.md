@@ -1,0 +1,1 @@
+Solely based on profiling of a natural person or on assessing their personality traits                                                                                                                                                                                                                                           | . 

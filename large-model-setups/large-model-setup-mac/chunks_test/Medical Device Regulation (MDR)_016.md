@@ -1,0 +1,1 @@
+The  Commission  may  also,  on  its  own  initiative,  after  consulting  the  MDCG,  decide,  by  means  of  implementing acts,  on  the  issues  referred  to  in  paragraph  1  of  this  Article.  

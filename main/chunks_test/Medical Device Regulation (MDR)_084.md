@@ -1,0 +1,2 @@
+Labelling
+Where  devices,  parts  thereof  or  materials  used  therein  as  referred  to  in  Section  .  contain  substances referred  to  in  points  (a)  or  (b)  of  Section  .  in  a  concentration  above  0,1  %  weight  by  weight  (w/w),  the presence  of  those  substances  shall  be  labelled  on  the  device  itself  and/or  on  the  packaging  for  each  unit  or, where appropriate,  on  the  sales  packaging,  with  the  list  of  such  substances.  

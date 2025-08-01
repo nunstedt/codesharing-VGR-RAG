@@ -1,0 +1,4 @@
+A detailed description of the elements of the model referred to in point 1, and relevant information of the process for  the  development,  including  the  following  elements:
+- (a) the technical means (e.g. instructions of use, infrastructure, tools) required for the general-purpose AI model to be  integrated  in  AI  systems;
+- (b) the  design  specifications  of  the  model  and  training  process,  including  training  methodologies  and  techniques, the key design choices including the rationale and assumptions made; what the model is designed to optimise for and the  relevance  of  the  different  parameters,  as  applicable;
+- (c) information  on  the  data  used  for  training,  testing  and  validation,  where  applicable,  including  the  type  and provenance of  data  and  curation  methodologies  (e.g.  

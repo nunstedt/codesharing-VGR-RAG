@@ -1,0 +1,5 @@
+Bibliography.
+## 4. Other information
+- . A  signed  statement  by  the  natural  or  legal  person  responsible  for  the  manufacture  of  the  investigational  device that the device in question conforms to the general safety and performance requirements apart from the aspects covered  by  the  clinical  investigation  and  that,  with  regard  to  those  aspects,  every  precaution  has  been  taken  to protect the health and safety of the subject.
+- . Where  applicable  according  to  national  law,  copy  of  the  opinion  or  opinions  of  the  ethics  committee  or committees  concerned.  Where  according  to  national  law  the  opinion  or  opinions  of  the  ethics  committee  or committees is  not  required  at  the  time  of  the  submission  of  the  application,  a  copy  of  the  opinion  or  opinions shall be submitted as soon as available.
+- . Proof  of  insurance  cover  or  indemnification  of  subjects  in  case  of  injury,  pursuant  to  Article  69  and  the corresponding national law.

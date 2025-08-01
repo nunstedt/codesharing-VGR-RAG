@@ -1,0 +1,3 @@
+| Digital infrastructure | - Providers of data centre services as defined in Article 6, point (31), of Directive (EU) 2022/ 2555                                                                                                                                                                                              |
+| 9.        |                        | - Providers of content delivery networks as defined in Article 6, point (32), of Directive (EU) 2022/2555                                                                                                                                                                                          |
+| 9.        

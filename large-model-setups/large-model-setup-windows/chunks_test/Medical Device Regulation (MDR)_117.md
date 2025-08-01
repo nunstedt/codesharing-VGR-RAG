@@ -1,0 +1,2 @@
+For each  application, the notified body  shall determine  the  resources needed  and  identify  one individual responsible  for  ensuring  that  the  assessment  of  that  application  is  conducted  in  accordance  with  the  relevant procedures  and  for  ensuring  that  the  appropriate  resources  including  personnel  are  utilised  for  each  of  the  tasks of  the  assessment.  The  allocation  of  tasks  required  to  be  carried  out  as  part  of  the  conformity  assessment  and any changes subsequently made to this allocation shall be documented.
+## . 

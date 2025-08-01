@@ -1,0 +1,5 @@
+For  devices  that  incorporate  software  or  for  software  that  are  devices  in  themselves,  the  software  shall  be developed  and  manufactured  in  accordance  with  the  state  of  the  art  taking  into  account  the  principles  of development life cycle, risk management, including information security, verification and validation.
+- . Software  referred  to  in  this  Section  that  is  intended  to  be  used  in  combination  with  mobile  computing platforms  shall  be  designed  and  manufactured  taking  into  account  the  specific  features  of  the  mobile  platform (e.g.  size  and  contrast  ratio  of  the  screen)  and  the  external  factors  related  to  their  use  (varying  environment  as regards level of  light or  noise).
+- . Manufacturers  shall  set  out  minimum  requirements  concerning  hardware,  IT  networks  characteristics  and  IT security measures, including protection against unauthorised access, necessary to run the software as intended.
+- 18. Active devices and devices connected to them
+- . 

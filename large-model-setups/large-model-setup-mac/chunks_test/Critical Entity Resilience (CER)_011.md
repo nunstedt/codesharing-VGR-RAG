@@ -1,0 +1,1 @@
+This Directive does not apply to public administration entities that carry out their activities in the areas of national security,  public  security,  defence  or  law  enforcement,  including  the  investigation,  detection  and  prosecution  of  criminal offences. - 7. 

@@ -1,0 +1,14 @@
+- (d)   The  scientific  opinion  of  the  medicinal  products  authority  consulted,  and  any  possible  update,  shall  be included  in  the  documentation  of  the  notified  body  concerning  the  device.  The  notified  body  shall  give  due consideration  to  the  views  expressed  in  the  scientific  opinion  when  making  its  decision  and  shall  convey  its final  decision to the medicinal products authority consulted.
+- 6. Batch  verification  in  the  case  of  devices  incorporating,  as  an  integral  part,  a  medicinal  substance  which,  if  used separately,  would  be  considered  to  be  a  medicinal  product  derived  from  human  blood  or  human  plasma  as referred to in Article 1(8)
+Upon  completing  the  manufacture  of  each  batch  of  devices  that  incorporate,  as  an  integral  part,  a  medicinal substance  which,  if  used  separately,  would  be  considered  to  be  a  medicinal  product  derived  from  human  blood or  human  plasma  as  referred  to  in  the  first  subparagraph  of  Article  1(8),  the  manufacturer  shall  inform  the notified  body  of  the  release  of  the  batch  of  devices  and  send  it  the  official  certificate  concerning  the  release  of the  batch  of  human  blood  or  plasma  derivative  used  in  the  device,  issued  by  a  Member  State  laboratory  or a laboratory designated for that purpose by a Member State in accordance with Article 114(2) of Directive 2001/83/EC.
+## CHAPTER III
+## ADMINISTRATIVE PROVISIONS
+- 7. The manufacturer or, where the manufacturer does not have a registered place of business in a Member State, its authorised  representative  shall,  for  a  period  ending  no  sooner  than  10  years,  and  in  the  case  of  implantable devices  no  sooner  than  15  years,  after  the  last  device  has  been  placed  on  the  market,  keep  at  the  disposal  of  the competent authorities:
+- -  the EU declaration of conformity,
+- -  the documentation referred to in the fifth indent of Section  and in particular  the data and records arising from the procedures referred to in point (c) of the second paragraph of Section ,
+- -  information on the changes referred to in Section ,
+- -  the documentation referred to in Section , and
+- -  the decisions and reports from the notified body as referred to in this Annex.
+- 8. Each  Member  State  shall  require  that  the  documentation  referred  to  in  Section  7  is  kept  at  the  disposal  of competent authorities  for  the  period  indicated  in  that  Section  in  case  a  manufacturer,  or  its  authorised  represen­ tative, established within its territory goes bankrupt or ceases its business activity prior  to the end of that period. ## ANNEX X
+## CONFORMITY ASSESSMENT BASED ON TYPE-EXAMINATION
+- 1. 

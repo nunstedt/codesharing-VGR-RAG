@@ -1,0 +1,12 @@
+- . Overall  synopsis  of  the  clinical  investigation,  in  an  official  Union  language  determined  by  the  Member  State concerned.
+- . Identification  and  description  of  the  device,  including  its  intended  purpose,  its  manufacturer,  its  traceability,  the target  population,  materials  coming  into  contact  with  the  human  body,  the  medical  or  surgical  procedures involved  in  its  use  and  the  necessary  training  and  experience  for  its  use,  background  literature  review,  the current  state  of  the  art  in  clinical  care  in  the  relevant  field  of  application  and  the  proposed  benefits  of  the  new device.
+- . Risks and clinical benefits of  the device to be examined, with justification of  the corresponding expected clinical outcomes in the clinical investigation plan.
+- . Description of the relevance of the clinical investigation in the context of the state of the art of clinical practice.
+- . Objectives and hypotheses of the clinical investigation.
+- . Design of the clinical investigation with evidence of its scientific robustness and validity.
+- . General  information  such  as  type  of  investigation  with  rationale  for  choosing  it,  for  its  endpoints  and  for  its variables as set out in the clinical evaluation plan.
+- . Information on the investigational device, on any comparator and on any other device or medication to be used in the clinical investigation.
+- . Information  on  subjects,  selection  criteria,  size  of  investigation  population,  representativeness  of  investigation population  in  relation  to  target  population  and,  if  applicable,  information  on  vulnerable  subjects  involved  such as children, pregnant women, immuno-compromised or, elderly subjects.
+- . Details  of  measures  to  be  taken  to  minimise  bias,  such  as  randomisation,  and  management  of  potential confounding factors.
+- . Description  of  the  clinical  procedures  and  diagnostic  methods  relating  to  the  clinical  investigation  and  in particular highlighting any deviation from normal clinical practice.
+- . 

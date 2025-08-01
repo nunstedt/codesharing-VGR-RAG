@@ -1,0 +1,13 @@
+90);
+- 4. Directive 2014/33/EU of the European Parliament and of the Council of 26 February 2014 on the harmonisation of the  laws  of  the  Member  States  relating  to  lifts  and  safety  components  for  lifts  (OJ  L  96,  ,  p.  251);
+- 5. Directive 2014/34/EU of the European Parliament and of the Council of 26 February 2014 on the harmonisation of the laws of the Member States relating to equipment and protective systems intended for use in potentially explosive atmospheres (OJ L 96, , p. 309);
+- 6. Directive 2014/53/EU of the European Parliament and of the Council of 16 April 2014 on the harmonisation of the laws of the Member States relating to the making available on the market of radio equipment and repealing Directive 1999/5/EC (OJ L 153, , p. 62);
+- 7. Directive 2014/68/EU of the European Parliament and of the Council of 15 May 2014 on the harmonisation of the laws  of  the  Member  States  relating  to  the  making  available  on  the  market  of  pressure  equipment  (OJ  L  189, , p. 164);
+- 8. Regulation  (EU)  2016/424  of  the  European  Parliament  and  of  the  Council  of  9  March  2016  on  cableway installations  and  repealing  Directive  2000/9/EC  (OJ  L  81,  ,  p.  1);
+- 9. Regulation (EU) 2016/425 of the European Parliament and of the Council of 9 March 2016 on personal protective equipment and repealing Council Directive  89/686/EEC (OJ  L 81, ,  p. 51);
+- 10. Regulation (EU) 2016/426 of the European Parliament and of the Council of 9 March 2016 on appliances burning gaseous  fuels  and  repealing  Directive  2009/142/EC  (OJ  L  81,  ,  p.  99);
+- 11. Regulation  (EU)  2017/745  of  the  European  Parliament  and  of  the  Council  of  5  April  2017  on  medical  devices, amending Directive 2001/83/EC, Regulation (EC) No 178/2002 and Regulation (EC) No 1223/2009 and repealing Council  Directives  90/385/EEC  and  93/42/EEC  (OJ  L  117,  ,  p.  1);
+- 12. Regulation  (EU)  2017/746  of  the  European  Parliament  and  of  the  Council  of  5  April  2017  on in  vitro diagnostic medical  devices  and  repealing  Directive  98/79/EC  and  Commission  Decision  2010/227/EU  (OJ  L  117,  , p.  176).
+- Section  B.  List  of  other  Union  harmonisation  legislation
+- 13. Regulation (EC) No 300/2008 of the European Parliament and of the Council of 11 March 2008 on common rules in  the  field  of  civil  aviation  security  and  repealing  Regulation  (EC)  No  2320/2002  (OJ  L  97,  ,  p.  72);
+- 14. Regulation (EU) No 168/2013 of the European Parliament and of the Council of 15 January 2013 on the approval and market surveillance  of  two- or  three-wheel  vehicles  and  quadricycles  (OJ  L  60,  ,  p.  

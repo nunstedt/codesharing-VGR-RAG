@@ -1,0 +1,2 @@
+The  notifying  authority  shall  provide  the  Commission,  on  request,  with  all  relevant  information  relating  to  the notification  or  the  maintenance  of  the  competence  of  the  notified  body concerned.
+- 3. The Commission shall ensure that all sensitive information obtained in the course of its investigations pursuant to this Article  is  treated  confidentially  in  accordance  with  Article  78.

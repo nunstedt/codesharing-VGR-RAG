@@ -1,0 +1,13 @@
+This  Directive  is  without  prejudice  to  Union  law  on  the  protection  of  personal  data,  in  particular  Regulation  (EU) 2016/679 of the European Parliament and of the Council ( 28 ) and Directive 2002/58/EC of the European Parliament and of the Council ( 29 ).
+## Article 2
+## Definitions
+For the purposes of this Directive, the following definitions apply:
+- (1) 'critical  entity'  means  a  public  or  private  entity  which  has  been  identified  by  a  Member  State  in  accordance  with Article 6 as belonging to one of the categories set out in the third column of the table in the Annex;
+- (2) 'resilience' means  a  critical entity's ability to prevent, protect against, respond  to, resist, mitigate, absorb, accommodate and recover from an incident;
+- (3) 'incident' means an event which has the potential to significantly disrupt, or that disrupts, the provision of an essential service, including when it affects the national systems that safeguard the rule of law;
+- (4) 'critical  infrastructure'  means  an  asset,  a  facility,  equipment,  a  network or  a  system,  or  a  part  of  an  asset,  a  facility, equipment, a network or a system, which is necessary for the provision of an essential service;
+- (5) 'essential service' means a service which is crucial for the maintenance of vital societal functions, economic activities, public health and safety, or the environment;
+- (6) 'risk' means the potential for loss or disruption caused by an incident and is to be expressed as a combination of the magnitude of such loss or disruption and the likelihood of occurrence of the incident;
+- (7) 'risk  assessment  '  means  the  overall  process  for  determining  the  nature  and  extent  of  a  risk  by  identifying  and analysing potential relevant threats, vulnerabilities and hazards which could lead to an incident and by evaluating the potential loss or disruption of the provision of an essential service caused by that incident;
+- (8) 'standard'  means  a  standard  as  defined  in  Article  2,  point  (1),  of  Regulation  (EU)  No  1025/2012  of  the  European Parliament and of the Council ( 30 );
+- ( 28 ) Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (OJ L 119, , p. 

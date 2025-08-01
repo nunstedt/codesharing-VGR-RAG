@@ -1,0 +1,1 @@
+The  manufacturer  shall  lodge  an  application  for  assessment  of  its  quality  management  system  with  a  notified body. 

@@ -1,0 +1,11 @@
+- 5. The implementing act referred to in paragraph 1 shall include provisions on the conditions, procedures and detailed arrangements for the scientific panel and its members to issue alerts, and to request the assistance of the AI Office for the performance of  the  tasks  of  the  scientific  panel.
+## Article  69
+## Access to the pool of experts by the Member States
+- 1. Member  States  may  call  upon  experts  of  the  scientific  panel  to  support  their  enforcement  activities  under  this Regulation.
+- 2. The Member States may be required to pay fees for the advice and support provided by the experts. The structure and the level of fees as well as the scale and structure of recoverable costs shall be set out in the implementing act referred to in Article 68(1), taking into account the objectives of the adequate implementation of this Regulation, cost-effectiveness and the  necessity of  ensuring  effective  access  to  experts  for  all  Member  States.
+- 3. The  Commission  shall  facilitate  timely  access  to  the  experts  by  the  Member  States,  as  needed,  and  ensure  that  the combination of support activities carried out by Union AI testing support pursuant to Article 84 and experts pursuant to this  Article  is  efficiently  organised  and  provides  the  best  possible  added  value.
+## SECTION 2
+## National competent authorities
+Article  70
+## Designation of national competent authorities and single points of contact
+- 1. Each Member State shall establish or designate as national competent authorities at least one notifying authority and at  least  one  market  surveillance  authority  for  the  purposes  of  this  Regulation.  Those  national  competent authorities  shall exercise  their  powers  independently,  impartially  and  without  bias  so  as  to  safeguard  the  objectivity of  their  activities  and tasks, and to ensure the application and implementation of this Regulation. The members of those authorities shall refrain from any action incompatible with their duties. Provided that those principles are observed, such activities and tasks may be performed by one or  more designated authorities,  in  accordance  with  the  organisational needs  of  the  Member  State.

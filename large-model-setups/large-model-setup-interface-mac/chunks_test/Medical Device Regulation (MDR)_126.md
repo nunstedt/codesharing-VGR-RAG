@@ -1,0 +1,3 @@
+'Central circulatory system' means the following blood vessels: arteriae  pulmonales , aorta ascendens , arcus aortae, aorta descendens to  the bifurcatio  aortae , arteriae  coronariae , arteria  carotis  communis , arteria  carotis  externa , arteria  carotis interna , arteriae  cerebrales , truncus  brachiocephalicus , venae  cordis , venae  pulmonales , vena  cava  superior and vena  cava inferior .
+- . 'Central nervous system' means the brain, meninges and spinal cord.
+- . 

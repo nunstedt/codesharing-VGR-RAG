@@ -1,0 +1,11 @@
+{
+  "system_name": "Gunnar",
+  "functionality": "Assisting triage of patients at the ER",
+  "users": "Internal staff at VGR",
+  "data": "Personal data",
+  "environment": "On-premisse",
+  "ai_system": false,
+  "ai_components": "",
+  "accessability": "Internal network only",
+  "criticality": "Low \u2013 loss would have minor impact"
+}

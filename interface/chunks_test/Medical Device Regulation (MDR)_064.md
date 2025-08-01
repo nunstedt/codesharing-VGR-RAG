@@ -1,0 +1,1 @@
+- 2. Except  in  cases  where  immediate  action  is  necessary  for  reasons  of  unacceptable  risk  to  human  health  or  safety, the  economic  operator  concerned  shall  be  given  the  opportunity  to  make  submissions  to  the  competent  authority within an appropriate period of time that is clearly defined before any measure is adopted.

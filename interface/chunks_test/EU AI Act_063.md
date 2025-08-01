@@ -1,0 +1,15 @@
+Having  regard  thereto,  the  Commission  shall  decide  whether  the  authorisation  is  justified.  The Commission shall address  its  decision  to  the  Member  State  concerned  and  to the  relevant  operators.
+- 6. Where  the  Commission  considers  the  authorisation  unjustified,  it  shall  be  withdrawn  by  the  market  surveillance authority of  the  Member  State  concerned.
+- 7. For  high-risk  AI  systems  related  to  products  covered  by  Union  harmonisation  legislation  listed  in  Section  A  of Annex I,  only  the  derogations  from  the  conformity  assessment  established  in  that  Union  harmonisation  legislation  shall apply.
+## Article  47
+## EU declaration of conformity
+- 1. The provider shall draw up a written machine readable, physical or electronically signed EU declaration of conformity for  each  high-risk  AI  system,  and  keep  it  at  the  disposal  of  the  national  competent  authorities  for  10  years  after  the high-risk AI system has been placed on the market or put into service. The EU declaration of conformity shall identify the high-risk AI system for which it has been drawn up. A copy of the EU declaration of conformity shall be submitted to the relevant  national  competent  authorities  upon  request.
+- 2. The EU declaration of conformity shall state that the high-risk AI system concerned meets the requirements set out in Section 2. The EU declaration of conformity shall contain the information set out in Annex V, and shall be translated into a language that can be easily understood by the national competent authorities of the Member States in which the high-risk AI  system  is  placed  on  the  market  or  made  available.
+- 3. Where  high-risk  AI  systems  are  subject  to  other  Union  harmonisation  legislation  which  also  requires  an  EU declaration of conformity, a single EU declaration of conformity shall be drawn up in respect of all Union law applicable to the  high-risk  AI  system.  The  declaration  shall  contain  all  the  information  required  to  identify  the  Union  harmonisation legislation  to  which  the  declaration  relates.
+- 4. By  drawing  up  the  EU  declaration  of  conformity,  the  provider  shall  assume  responsibility  for  compliance  with  the requirements  set  out  in  Section  2.  The  provider  shall  keep  the  EU  declaration  of  conformity  up-to-date  as  appropriate.
+- 5. The Commission is empowered to adopt delegated acts in accordance with Article 97 in order to amend Annex V by updating the content of the EU declaration of conformity set out in that Annex, in order to introduce elements that become necessary  in  light  of  technical  progress.
+## Article  48
+## CE marking
+- 1. The CE marking shall be subject  to the general principles  set out  in  Article  30  of  Regulation  (EC)  No  765/2008.
+- 2. For high-risk AI systems provided digitally, a digital CE marking shall be used, only if it can easily be accessed via the interface  from which that system is accessed or  via an easily accessible machine-readable code or other electronic means.
+- 3. 

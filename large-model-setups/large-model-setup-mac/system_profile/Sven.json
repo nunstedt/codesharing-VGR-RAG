@@ -1,0 +1,11 @@
+{
+  "system_name": "Sven",
+  "functionality": "Medication distribuatio",
+  "users": "Internal staff at VGR",
+  "data": "Health data",
+  "environment": "Hybrid",
+  "ai_system": true,
+  "ai_components": "analysis",
+  "accessability": "VPN access",
+  "criticality": "Low \u2013 loss would have minor impact"
+}

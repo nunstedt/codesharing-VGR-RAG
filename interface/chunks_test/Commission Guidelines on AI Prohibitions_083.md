@@ -1,0 +1,4 @@
+out of scope).
+- (169) The prohibition under Article 5(1)(c) AI Act may also cover cases where awards or preferential treatment are given to certain individuals or groups of persons, since this implies  less  favourable  treatment  of  other  individuals  (e.g.  in  cases  of  support employment programmes, (de-)prioritisation for housing or resettlement).
+## . Regardless of whether provided or used by public or private persons
+124 For a similar example of the Dutch Childcare Benefits scandal in the Netherlands, see Belastingdienst treft 232 gezinnen met onevenredig harde actie ,  , (in Dutch). 

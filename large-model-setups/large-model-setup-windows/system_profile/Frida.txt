@@ -1,0 +1,1 @@
+Frida is a system designed to facilitate medicine ordering for internal staff at VGR (Västra Götalandsregionen). It operates within VGR's on-premise environment and is accessible only through the internal network. The system handles personal data. Frida is not an AI-powered system and its failure would have a medium operational impact.

@@ -1,0 +1,17 @@
+Shipping containers shall be exempted from the requirement in Section . By way of example, a UDI shall not be  required  on  a  logistics  unit;  where  a  healthcare  provider  orders  multiple  devices  using  the  UDI  or  model number of individual devices and the manufacturer  places those devices in a container for shipping or  to protect the individually packaged devices, the container (logistics unit) shall not be subject to UDI requirements.
+- . The UDI shall contain two parts: a UDI-DI and a UDI-PI.
+- . The UDI-DI shall be unique at each level of device packaging.
+- . If  a  lot  number,  serial  number,  software  identification  or  expiry  date  appears  on  the  label,  it  shall  be  part  of  the UDI-PI.  If  there  is  also  a  manufacturing  date  on  the  label,  it  does  not  need  to  be  included  in  the  UDI-PI.  If  there is  only a manufacturing date on the label, this shall be used as the UDI-PI.
+- . Each  component  that  is  considered  to  be  a  device  and  is  commercially  available  on  its  own  shall  be  assigned a separate UDI unless the components are part of a configurable device that is marked with its own UDI.
+- . Systems and procedure packs as referred to in Article 22 shall be assigned and bear  their own UDI.
+- . The manufacturer shall assign the UDI to a device following the relevant coding standard. - . A  new  UDI-DI  shall  be  required  whenever  there  is  a  change  that  could  lead  to  misidentification  of  the  device and/or ambiguity in its traceability; in particular, any change of one of  the following UDI database data elements shall require a new UDI-DI:
+- (a)   name or  trade name,
+- (b)   device version or  model,
+- (c)   labelled as single use,
+- (d)   packaged sterile,
+- (e)   need for sterilization before use,
+- (f)   quantity of devices provided in a package,
+- (g)   critical  warnings or contra-indications: e.g. containing latex or DEHP.
+- . Manufacturers  that  repackage  and/or  relabel  devices,  with  their  own  label  shall  retain  a  record  of  the  original device manufacturer's UDI.
+- 4. UDI carrier
+- . 

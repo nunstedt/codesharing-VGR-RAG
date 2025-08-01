@@ -1,0 +1,20 @@
+{
+  "system_name": "TriageGo",
+  "functionality": "Used to assist triage nurses when prioritizing patients in the emergency department. Analyzing wearable divide data together with symptom descriptions gathered upon arrival.",
+  "users": [
+    "Specialists"
+  ],
+  "data": [
+    "Personal data",
+    "Health data"
+  ],
+  "environment": [
+    "Hybrid"
+  ],
+  "ai_system": true,
+  "ai_components": "AI components for analyzing the wearable device data to alert any alarming trends.",
+  "accessability": [
+    "Internal network only"
+  ],
+  "criticality": "Low \u2013 loss would have minor impact"
+}

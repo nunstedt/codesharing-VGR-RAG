@@ -1,0 +1,6 @@
+72).
+- 6. European Criminal Records Information System on third-country nationals and stateless  persons
+- Regulation  (EU)  2019/816  of  the  European  Parliament  and  of  the  Council  of  17  April  2019  establishing a  centralised  system  for  the  identification  of  Member  States  holding  conviction  information  on  third-country nationals and stateless persons (ECRIS-TCN) to supplement the European Criminal Records Information System and amending Regulation (EU) 2018/1726 (OJ L 135, , p. 1).
+- 7. Interoperability
+- (a) Regulation  (EU)  2019/817  of  the  European  Parliament  and  of  the  Council  of  20  May  2019  on  establishing a framework for interoperability between EU information systems in the field of borders and visa and amending Regulations (EC) No 767/2008, (EU) 2016/399, (EU) 2017/2226, (EU) 2018/1240, (EU) 2018/1726 and (EU) 2018/1861  of  the  European  Parliament  and  of the  Council  and  Council  Decisions  2004/512/EC  and 2008/633/JHA (OJ L 135, , p. 27).
+- (b) Regulation  (EU)  2019/818  of  the  European  Parliament  and  of  the  Council  of  20  May  2019  on  establishing a framework for interoperability between EU information systems in the field of police and judicial cooperation, asylum  and  migration  and  amending  Regulations  (EU)  2018/1726,  (EU)  2018/1862  and  (EU)  2019/816  (OJ L  135,  ,  p.  

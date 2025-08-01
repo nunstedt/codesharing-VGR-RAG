@@ -1,0 +1,10 @@
+For  non-implantable active devices, in the event of a single fault  condition,  appropriate  means shall  be adopted to eliminate or reduce as far as possible consequent risks.
+- . Devices where the safety of the patient depends on an internal power supply shall be equipped with a means of determining  the  state  of  the  power  supply  and  an  appropriate  warning  or  indication  for  when  the  capacity  of the  power  supply  becomes  critical.  If  necessary,  such  warning  or  indication  shall  be  given  prior  to  the  power supply becoming critical.
+- . Devices  where  the  safety of  the  patient  depends  on  an  external  power  supply  shall  include  an  alarm  system  to signal any power failure.
+- . Devices  intended  to  monitor  one  or  more  clinical  parameters  of  a  patient  shall  be  equipped  with  appropriate alarm  systems  to  alert  the  user  of  situations  which  could  lead  to  death  or  severe  deterioration  of  the  patient's state of health.
+- . Devices  shall  be  designed  and  manufactured  in  such  a  way  as  to  reduce  as  far  as  possible  the  risks  of  creating electromagnetic  interference  which  could  impair  the  operation  of  the  device  in  question  or  other  devices  or equipment in the intended environment.
+- . Devices shall be designed and manufactured in such a way as to provide a level of intrinsic immunity to electro­ magnetic interference such that is adequate to enable them to operate as intended.
+- . Devices  shall  be  designed  and  manufactured  in  such  a  way  as  to  avoid,  as  far  as  possible,  the  risk  of  accidental electric  shocks  to  the  patient,  user  or  any other  person,  both  during  normal  use  of  the  device  and  in  the  event of  a  single  fault  condition  in  the  device,  provided  the  device  is  installed  and  maintained  as  indicated  by  the manufacturer.
+- . Devices shall be designed and manufactured in such a way as to protect, as far as possible, against unauthorised access that could hamper the device from functioning as intended.
+- 19. Particular  requirements for active implantable devices
+- . 

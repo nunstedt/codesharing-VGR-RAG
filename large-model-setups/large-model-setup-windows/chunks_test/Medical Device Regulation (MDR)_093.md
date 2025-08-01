@@ -1,0 +1,24 @@
+## . Information on the label
+The label shall bear all of  the following particulars:
+- (a) the name or trade name of the device;
+- (b) the details  strictly  necessary for  a user  to identify  the device,  the contents of  the packaging and, where it is not obvious for  the user, the intended purpose of the device;
+- (c) the  name,  registered  trade  name  or  registered  trade  mark  of  the  manufacturer  and  the  address  of  its registered place of business;
+- (d) if  the  manufacturer  has  its  registered  place  of  business  outside  the  Union,  the  name  of  the  authorised  rep­ resentative and address of the registered place of business of the authorised representative;
+- (e) where applicable, an indication that the device contains or incorporates:
+- -  a medicinal substance, including a human blood or plasma derivative, or
+- -  tissues or cells, or  their derivatives, of human origin, or
+- -  tissues or cells of animal origin, or  their derivatives, as referred to in Regulation (EU) No 722/2012;
+- (f) where applicable, information labelled in accordance with Section .;
+- (g) the  lot  number  or  the  serial  number  of  the  device  preceded  by  the  words  LOT  NUMBER  or  SERIAL NUMBER or an equivalent symbol, as appropriate;
+- (h) the UDI carrier referred to in Article 27(4) and Part C of Annex VII;
+- (i) an  unambiguous  indication  of  t  the  time  limit  for  using  or  implanting  the  device  safely,  expressed  at  least in terms of year and month, where this is relevant;
+- (j) where  there  is  no  indication  of  the  date  until  when  it  may  be  used  safely,  the  date  of  manufacture.  This date  of  manufacture  may  be  included  as  part  of  the  lot  number  or  serial  number,  provided  the  date  is clearly identifiable;
+- (k) an indication of any special storage and/or handling condition that applies;
+- (l) if  the  device is supplied sterile,  an indication of its sterile state and the sterilisation method;
+- (m)   warnings or  precautions  to be taken that need to be brought to the immediate attention of  the user of  the device,  and  to any other  person. This  information  may be kept to a minimum in which case more detailed information shall appear in the instructions for use, taking into account the intended users;
+- (n) if  the  device  is  intended  for  single  use,  an  indication  of  that  fact.  A  manufacturer's  indication  of  single  use shall be consistent across the Union;
+- (o) if  the  device  is  a  single-use  device  that  has  been  reprocessed,  an  indication  of  that  fact,  the  number  of reprocessing cycles already performed, and any limitation as regards the number of reprocessing cycles;
+- (p) if  the  device is custom-made, the words 'custom-made device';
+- (q) an indication that the device is a medical device. If  the device is intended for clinical investigation only, the words 'exclusively for clinical investigation';
+- (r) in  the  case  of  devices  that  are  composed  of  substances  or  of  combinations  of  substances  that  are  intended to  be  introduced  into  the  human  body  via  a  body  orifice  or  applied  to  the  skin  and  that  are  absorbed  by or  locally  dispersed  in  the  human  body,  the  overall  qualitative  composition  of  the  device  and  quantitative information  on  the  main  constituent  or  constituents  responsible  for  achieving  the  principal  intended action;
+- (s) for  active  implantable  devices,  the  serial  number,  and  for  other  implantable  devices,  the  serial  number  or the lot number.

@@ -1,0 +1,5 @@
+Public adminis­ tration | - Public administration entities of central governments as defined by a Member State in accordance with national law - Public administration entities at regional level as defined by a Member State in accordance with national law |
+| 11. Space                  | Operators of ground-based infrastructure, owned, managed and operated by Member States or by private parties, that support the provision of space-based services, excluding providers of public electronic communications networks   |
+- ( 1 ) Directive (EU) 2019/944 of the European Parliament and of the Council of 5 June 2019 on common rules for the internal market for electricity and amending Directive 2012/27/EU (OJ L 158, , p. 125).
+- ( 2 ) Regulation (EU) 2019/943 of the European Parliament and of the Council of 5 June 2019 on the internal market for electricity (OJ L 158, , p. 54).
+- ( 3 ) Directive (EU) 2018/2001 of the European Parliament and of the Council of 11 December 2018 on the promotion of the use of energy from renewable sources (OJ L 328, , p. 

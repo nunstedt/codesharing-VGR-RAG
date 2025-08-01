@@ -1,0 +1,2 @@
+Application of the classification rules shall be governed by the intended purpose of the devices.
+- . If  the  device  in  question  is  intended  to  be  used  in  combination  with  another  device,  the  classification  rules  shall apply  separately  to  each  of  the  devices.  Accessories  for  a  medical  device  and  for  a  product  listed  in  Annex  XVI shall be classified in their own right separately from the device with which they are used.

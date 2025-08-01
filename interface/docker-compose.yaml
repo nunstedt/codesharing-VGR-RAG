@@ -1,0 +1,46 @@
+name: rag-base
+
+services:
+#Default embeddor in Docker
+  embeddor_default:
+    image: ghcr.io/huggingface/text-embeddings-inference:cpu-latest
+    platform: linux/amd64
+    env_file:
+      - .env
+    ports:
+      - 5080:80
+    command: --model-id sentence-transformers/all-MiniLM-L6-v2 --max-client-batch-size 256
+    # command: --model-id intfloat/multilingual-e5-large-instruct --max-client-batch-size 256
+
+
+#Fine-tuned embeddor in Docker (uncomment)
+  # embeddor_default:
+  #   image: ghcr.io/huggingface/text-embeddings-inference:cpu-latest
+  #   platform: linux/amd64
+  #   env_file:
+  #     - .env
+  #   ports:
+  #     - 5080:80
+  #   volumes: 
+  #     - /Users/fridapiscatorpettersson/Projects/iie_projects/actors-codesharing/intro-to-RAG-main_adaptation/src/trained_embeddings:/m/bge
+  #   command: --model-id /m/bge --max-client-batch-size 256 
+
+
+  reranker:
+    image: ghcr.io/huggingface/text-embeddings-inference:cpu-latest
+    platform: linux/amd64
+    env_file:
+      - .env
+    ports:
+      - 5081:81
+    command: --model-id cross-encoder/ms-marco-MiniLM-L-6-v2 --max-client-batch-size 256 --port 81
+
+  vectordb:
+    image: qdrant/qdrant
+    platform: linux/amd64
+    ports:
+      - 6333:6333
+    volumes:
+      - ./local_qdrant_data:/qdrant_data
+    environment:
+      - QDRANT_ALLOW_RECOVERY_MODE=true

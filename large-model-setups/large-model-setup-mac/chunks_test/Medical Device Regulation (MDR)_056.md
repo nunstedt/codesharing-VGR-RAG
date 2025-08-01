@@ -1,0 +1,1 @@
+- 2. Member  States  shall  ensure  that  the  assessment  is  done  jointly  by  an  appropriate  number  of  persons  who collectively have the necessary qualifications and experience.

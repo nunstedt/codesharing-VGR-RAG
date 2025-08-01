@@ -1,0 +1,4 @@
+- 13. This Regulation shall not affect the application of Directive 2013/59/Euratom.
+- 14. This  Regulation  shall  not  affect  the  right  of  a  Member  State  to  restrict  the  use  of  any  specific  type  of  device  in relation to aspects not covered by this Regulation.
+- 15. This  Regulation  shall  not  affect  national  law  concerning  the  organisation,  delivery  or  financing  of  health  services and  medical  care,  such  as  the  requirement  that  certain  devices  may  only  be  supplied  on  a  medical  prescription,  the requirement  that  only  certain  health  professionals  or  healthcare  institutions  may  dispense  or  use  certain  devices  or  that their  use be accompanied by specific professional counselling.
+- 16. 

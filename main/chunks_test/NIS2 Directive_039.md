@@ -1,0 +1,17 @@
+- 6. Member States shall ensure that any natural person responsible for or acting as a legal representative of an essential entity on the basis of  the  power  to represent  it,  the  authority  to take  decisions  on  its  behalf or  the  authority  to exercise control of it has the power  to ensure its compliance with this Directive. Member States shall ensure that it is possible to hold such natural persons liable for breach of their duties to ensure compliance with this Directive.
+As regards public administration entities, this paragraph shall be without prejudice to national law as regards the liability of public servants and elected or appointed officials. - 7. When  taking  any  of  the  enforcement  measures  referred  to  in  paragraph  4  or  5,  the  competent  authorities  shall comply with the rights of the defence and take account of the circumstances of each individual case and, as a minimum, take due account of:
+- (a) the  seriousness  of  the  infringement  and  the  importance  of  the  provisions  breached,  the  following,  inter  alia, constituting serious infringement in any event:
+- (i) repeated violations;
+- (ii) a failure to notify or remedy significant incidents;
+- (iii) a failure to remedy deficiencies following binding instructions from competent authorities;
+- (iv) the obstruction of audits or monitoring activities ordered by the competent authority following the finding of an infringement;
+- (v) providing  false  or  grossly  inaccurate  information  in  relation  to  cybersecurity  risk-management  measures  or reporting obligations laid down in Articles 21 and 23;
+- (b) the duration of the infringement;
+- (c) any relevant previous infringements by the entity concerned;
+- (d) any material or non-material damage caused, including any financial or economic loss, effects on other services and the number of users affected;
+- (e) any intent or negligence on the part of the perpetrator of the infringement;
+- (f) any measures taken by the entity to prevent or mitigate the material or non-material damage;
+- (g) any adherence to approved codes of conduct or approved certification mechanisms;
+- (h) the level of cooperation of the natural or legal persons held responsible with the competent authorities.
+- 8. The competent authorities shall set out a detailed  reasoning for  their enforcement  measures. Before  adopting  such measures, the competent authorities shall notify the entities concerned of their preliminary findings. They shall also allow a reasonable time for those entities to submit observations, except in duly substantiated cases where immediate action to prevent or respond to incidents would otherwise be impeded.
+- 9. 

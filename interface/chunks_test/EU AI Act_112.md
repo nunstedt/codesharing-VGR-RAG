@@ -1,0 +1,3 @@
+- 8. Administration  of  justice  and  democratic  processes:
+- (a) AI  systems  intended  to  be  used  by  a  judicial  authority  or  on  their  behalf  to  assist  a  judicial  authority  in researching and interpreting facts and the law and in applying the law to a concrete set of facts, or to be used in a  similar  way  in  alternative  dispute  resolution;
+- (b) AI  systems  intended  to  be  used  for  influencing  the  outcome  of  an  election  or  referendum  or  the  voting behaviour  of  natural  persons  in  the  exercise  of  their  vote  in  elections  or  referenda.  

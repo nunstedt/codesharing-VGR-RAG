@@ -1,0 +1,2 @@
+- 3. The repealed Chapter 2, Section 6 applies to protective security agreements concluded prior to entry into force.
+- 4. 

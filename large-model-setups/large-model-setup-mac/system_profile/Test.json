@@ -1,0 +1,21 @@
+{
+  "system_name": "Test",
+  "functionality": "Testing new medicine",
+  "users": [
+    "Internal staff at VGR",
+    "Specialists"
+  ],
+  "data": [
+    "Personal data",
+    "Health data"
+  ],
+  "environment": [
+    "On-premisse"
+  ],
+  "ai_system": false,
+  "ai_components": "",
+  "accessability": [
+    "Internal network only"
+  ],
+  "criticality": "Medium \u2013 operational impact"
+}

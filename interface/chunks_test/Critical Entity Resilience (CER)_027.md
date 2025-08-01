@@ -1,0 +1,2 @@
+Drinking water | - Suppliers and distributors of water intended for human consumption as defined in Article 2, point (1)(a), of Directive (EU) 2020/2184 of the European Parliament and of the Council ( 18 ), excluding distributors for which distribution of water for human consumption is a non-essential part of their general activity of distributing other commodities and goods                                   |
+| 7. 

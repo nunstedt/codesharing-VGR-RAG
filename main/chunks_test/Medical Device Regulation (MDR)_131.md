@@ -1,0 +1,3 @@
+The  manufacturer  shall  establish,  document  and  implement  a  quality  management  system  as  described  in Article  10(9)  and  maintain  its  effectiveness  throughout  the  life  cycle  of  the  devices  concerned.  The  manufacturer shall  ensure  the  application  of  the  quality  management  system  as  specified  in  Section  2  and  shall  be  subject  to audit, as laid down in Sections  and , and to surveillance as specified in Section 3.
+- 2. Quality management system assessment
+- . 

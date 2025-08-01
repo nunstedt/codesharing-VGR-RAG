@@ -1,0 +1,1 @@
+When a user uploads the image of an individual to the AI system, that system will determine whether that image matches a face in the database. 

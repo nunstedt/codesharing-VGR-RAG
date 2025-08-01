@@ -1,0 +1,23 @@
+That  list  should  be  used  by competent  authorities  for  the  purpose  of  conducting  Member  State risk assessments and identifying critical entities pursuant to this Directive. In light of the minimum harmonisation approach  of  this  Directive,  that  list  is  non-exhaustive,  and  Member  States  could  complement  it  with  additional essential  services  at  national  level  in  order  to  take  into  account  national  specificities  in  the  provision  of  essential services.  It  is  of  particular  importance  that  the  Commission  carry  out  appropriate  consultations  during  its preparatory  work,  including  at  expert  level,  and  that  those  consultations  be  conducted  in  accordance  with  the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making ( 25 ).  In particular, to ensure equal participation in the preparation of delegated acts, the European Parliament and the Council receive all documents at the same time as Member States' experts, and their experts systematically have access to meetings of Commission expert groups dealing with the preparation of delegated acts.
+- (42) In  order  to  ensure  uniform  conditions  for  the  implementation  of  this  Directive,  implementing  powers  should  be conferred on the Commission. Those powers should be exercised in accordance with Regulation (EU) No 182/2011 of the European Parliament and of the Council ( 26 ).
+- (43) Since the objectives of  this Directive, namely to ensure that services essential for  the maintenance of vital societal functions or economic activities are provided in an unobstructed manner in the internal market and to enhance the resilience of critical entities providing such services, cannot be sufficiently achieved by the Member States, but can rather, by reason of  the effects of  the action, be better achieved at Union level, the Union may adopt measures, in accordance  with  the  principle  of  subsidiarity  as  set  out  in  Article  5  of  the  Treaty  on  the  European  Union.  In accordance with the principle of proportionality as set out in that Article 5, this Directive does not go beyond what is necessary in order to achieve those objectives.
+- (44) The  European  Data  Protection  Supervisor  was  consulted  in  accordance  with  Article  42(1)  of  Regulation  (EU) 2018/1725 of the European Parliament and of the Council ( 27 ) and delivered an opinion on 11 August 2021.
+- (45) Directive 2008/114/EC should therefore be repealed,
+- ( 25 ) OJ L 123, , p. 1.
+- ( 26 ) Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by the Member States of the Commission's exercise of implementing powers (OJ L 55, , p. 13).
+- ( 27 ) Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, , p. 39). 
+HAVE ADOPTED THIS DIRECTIVE:
+## CHAPTER I
+## GENERAL PROVISIONS
+Article 1
+## Subject matter and scope
+- 1. This Directive:
+- (a) lays down obligations on Member States to take specific measures aimed at ensuring that services which are essential for  the  maintenance  of  vital  societal  functions  or  economic  activities  within  the  scope  of  Article  114  TFEU  are provided in an unobstructed manner in the internal market, in particular obligations to identify critical entities and to support critical entities in meeting the obligations imposed on them;
+- (b) lays down obligations for critical entities aimed at enhancing their resilience and ability to provide services as referred to in point (a) in the internal market;
+- (c) establishes rules:
+- (i) on the supervision of critical entities;
+- (ii) on enforcement;
+- (iii) for the identification of critical entities of particular European significance and on advisory missions to assess the measures that such entities have put in place to meet their obligations under Chapter III;
+- (d) establishes common procedures for cooperation and reporting on the application of this Directive;
+- (e) lays down measures with a view to achieving a high level of resilience of critical entities in order to ensure the provision of essential services within the Union and to improve the functioning of the internal market.
+- 2. 

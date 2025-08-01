@@ -1,0 +1,2 @@
+By  way  of  derogation  from  Section  5,  by  virtue  of  the  EU  declaration  of  conformity  the  manufacturer  shall  be deemed  to  ensure  and  to  declare  that  the  class  IIa  devices  in  question  are  manufactured  in  conformity  with  the technical  documentation  referred  to  in  Annexes  II  and  III  and  meet  the  requirements  of  this  Regulation  which apply to them.
+- . 

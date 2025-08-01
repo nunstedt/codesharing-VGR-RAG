@@ -1,0 +1,1 @@
+- ( 32 ) Regulation (EU) 2019/1150 of the European Parliament and of the Council of 20 June 2019 on promoting fairness and transparency for business users of online intermediation services (OJ L 186, , p. 57). 

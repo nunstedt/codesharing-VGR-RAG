@@ -1,0 +1,5 @@
+Description of the Informed consent process.
+- . Safety reporting, including definitions of adverse events and serious adverse events, device deficiencies, procedures and timelines for reporting. - . Criteria  and  procedures  for  follow-up  of  subjects  following  the  end,  temporary  halt  or  early  termination  of  an investigation,  for  follow-up  of  subjects  who  have  withdrawn  their  consent  and  procedures  for  subjects  lost  to follow-up. Such procedures shall for implantable devices, cover as a minimum traceability.
+- . A description of  the  arrangements  for  taking  care  of  the  subjects  after  their  participation  in  the  clinical  investi­ gation  has  ended,  where  such  additional  care  is  necessary  because  of  the  subjects'  participation  in  the  clinical investigation and where it differs from that normally expected for  the medical condition in question.
+- . Policy  as  regards  the  establishment  of  the  clinical  investigation  report  and  publication  of  results  in  accordance with the legal requirements and the ethical principles referred to in Section 1 of Chapter I.
+- . 

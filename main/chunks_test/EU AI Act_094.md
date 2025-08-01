@@ -1,0 +1,15 @@
+- 10. The exercise of powers under this Article shall be subject to appropriate procedural safeguards in accordance with Union and national law,  including effective  judicial  remedies  and  due  process.
+- 11. Member States shall, on an annual basis, report to the Commission about the administrative fines they have issued during that  year,  in  accordance  with  this  Article,  and  about  any  related  litigation  or  judicial  proceedings.
+## Article  100
+## Administrative fines on Union institutions, bodies, offices and agencies
+- 1. The European Data Protection Supervisor may impose administrative fines on Union institutions, bodies, offices and agencies  falling  within  the  scope  of  this  Regulation.  When  deciding  whether  to  impose  an  administrative  fine  and  when deciding on the amount of the administrative fine in each individual case, all relevant circumstances of the specific situation shall  be  taken  into  account  and  due  regard  shall  be  given  to  the  following:
+- (a) the nature, gravity and duration of the infringement and of its consequences, taking into account the purpose of the AI system concerned, as well as, where appropriate, the number of affected persons and the level of damage suffered by them;
+- (b) the  degree  of  responsibility  of  the  Union  institution,  body,  office  or  agency,  taking  into  account  technical  and organisational  measures  implemented by them;
+- (c) any action taken by the Union institution, body, office or agency to mitigate the damage suffered by affected persons;
+- (d) the  degree  of  cooperation  with  the  European  Data  Protection  Supervisor  in  order  to  remedy  the  infringement  and mitigate  the  possible  adverse  effects  of  the  infringement,  including  compliance  with  any  of  the  measures  previously ordered  by  the  European  Data  Protection  Supervisor  against  the  Union  institution,  body,  office  or  agency  concerned with  regard  to  the  same  subject  matter;
+- (e) any similar  previous  infringements by the  Union  institution,  body,  office  or  agency;
+- (f) the  manner  in  which  the  infringement  became  known  to  the  European  Data  Protection  Supervisor,  in  particular whether,  and  if  so  to  what  extent,  the  Union  institution,  body,  office  or  agency  notified  the  infringement;
+- (g) the  annual  budget  of  the  Union  institution,  body,  office  or  agency.
+- 2. Non-compliance with  the  prohibition  of  the  AI  practices  referred  to  in  Article  5  shall  be  subject  to  administrative fines  of  up  to  EUR  1 500 000.
+- 3. The non-compliance of the AI system with any requirements or obligations under  this Regulation, other  than those laid  down in  Article  5,  shall  be  subject  to  administrative  fines  of  up  to  EUR  750 000.
+- 4. 

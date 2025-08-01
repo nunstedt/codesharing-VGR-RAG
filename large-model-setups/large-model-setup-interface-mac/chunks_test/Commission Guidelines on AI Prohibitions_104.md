@@ -1,0 +1,14 @@
+For example, 203
+A serious disruption and destruction of critical infrastructure (e.g., a power plant, water supply, or a hospital) may result in an imminent threat to the life or the physical safety of a person when there is serious harm of cessation of basic supplies to the population  (deprivation  of  electricity  or  drinkable  water  for  a  long  period,  in  a particularly warm or cold weather, etc).
+(341) What constitutes an imminent threat to life or the physical safety of natural persons is ultimately defined and assessed at the level of the Member State based on its national laws, in accordance with EU law, in particular taking into account the key elements and rationale of Article 5 AI Act. This will have to be laid down/referred to in the laws
+202 As defined in Article 2(4) of Directive 2022/2557.
+203 Recital 33 AI Act.
+Member States must adopt to make use of the exceptions to the prohibition on the use of real-time RBI for law enforcement purposes in publicly accessible spaces.
+(342) An imminent threat to life or physical safety is a threat that can occur at any moment and requires ' immediate action to be taken. ' 204 A substantial threat to physical safety relates to serious bodily injuries.
+(343) A specific threat means that the threat is clearly defined, individualised and concrete, in that it should not be hypothetical or relate to certain dangers in general.
+For example, the police are informed that a former student plans a deadly attack at his former university as he seeks revenge on several former classmates. The police receives information about the imminence of the attack, the targeted school, and the weapons he plans to use to execute his plans.
+(344) A specific threat needs not be intentional. Non-intentional actions could also result in a threat to life or physical safety.
+## b) A genuine and present or genuine and foreseeable threat of a terrorist attack
+(345) This part of the second scenario described in Article 5(1)(h)(ii) AI Act is comprised of several elements: the existence of a threat of a terrorist attack and the characteristics of the threat, which must be genuine and present or genuine and foreseeable.
+Threat of a terrorist attack
+(346) The  assessment  concerning  the  existence  and  seriousness  of  the  threat  is  made  at national  level  when  assessing  the  actual  circumstances  of  a  measure  to  be  taken  to safeguard national  security,  and  more  specifically,  in  case  of  a  terrorist  attack.  The terrorist threat level is defined at national level and varies from one Member State to  another.  For  example,  the  Netherlands  has  established  five  levels  of  threats, 205 Belgium  four, 206 France  three, 207 and  Sweden  five. 

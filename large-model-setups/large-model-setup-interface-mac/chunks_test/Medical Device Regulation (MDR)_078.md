@@ -1,0 +1,2 @@
+- 2. The requirement in this Annex to reduce risks  as far as possible means the reduction  of risks  as far  as  possible without adversely affecting the benefit-risk ratio.
+- 3. 

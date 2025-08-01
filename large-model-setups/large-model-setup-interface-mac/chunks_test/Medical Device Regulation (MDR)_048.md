@@ -1,0 +1,12 @@
+Information  given  to  the  subject  or,  where  the  subject  is  not  able  to  give  informed  consent,  his  or  her  legally designated representative for  the purposes of obtaining his or her informed consent shall:
+- (a)   enable the subject or his or her legally designated representative to understand:
+- (i) the nature, objectives, benefits, implications, risks and inconveniences of the clinical investigations;
+- (ii) the  subject's  rights  and  guarantees  regarding  his  or  her  protection,  in  particular  his  or  her  right  to  refuse  to participate  in  and  the  right  to  withdraw  from  the  clinical  investigation  at  any  time  without  any  resulting detriment and without having to provide any justification;
+- (iii)   the  conditions  under  which  the  clinical  investigations  is  to be  conducted,  including  the  expected duration of  the subject's participation in the clinical investigation; and
+- (iv)   the  possible  treatment  alternatives,  including  the  follow-up  measures  if  the  participation  of  the  subject  in  the clinical investigation is discontinued;
+- (b)   be  kept  comprehensive,  concise,  clear,  relevant,  and  understandable  to  the  subject  or  his  or  her  legally  designated representative;
+- (c)   be  provided  in  a  prior  interview  with  a  member  of  the  investigating  team  who  is  appropriately  qualified  under national law; - (d)   include information about the applicable damage compensation system referred to in Article 69; and
+- (e)   include  the  Union-wide  unique  single  identification  number  of  the  clinical  investigation  referred  to  in  Article  70(1) and  information  about  the  availability  of  the  clinical  investigation  results  in  accordance  with  paragraph  6  of  this Article.
+- 3. The  information  referred  to  in  paragraph  2  shall  be  prepared  in  writing  and  be  available  to  the  subject  or,  where the subject is not able to give informed consent, his or her legally designated representative.
+- 4. In  the  interview  referred  to  in  point  (c)  of  paragraph  2,  special  attention  shall  be  paid  to  the  information  needs  of specific patient populations and of individual subjects, as well as to the methods used to give the information.
+- 5. 

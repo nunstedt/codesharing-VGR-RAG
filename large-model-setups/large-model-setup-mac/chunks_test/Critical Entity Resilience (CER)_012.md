@@ -1,0 +1,3 @@
+Member States may decide that Article 11 and Chapters III, IV and VI, in whole or in part, do not apply to specific critical  entities  which  carry  out  activities  in  the  areas  of  national  security,  public  security,  defence  or  law  enforcement, including  the  investigation,  detection  and  prosecution  of  criminal  offences,  or  which  provide  services  exclusively  to  the public administration entities referred to in paragraph 6 of this Article.
+- 8. The obligations laid down in this Directive shall not entail the supply of information the disclosure of which would be contrary to the essential interests of Member States' national security, public security or defence.
+- 9. 

@@ -1,0 +1,26 @@
+The  notified body  shall, where  relevant, take into  consideration available CS, guidance  and  best practice documents and harmonised standards, even if the manufacturer does not claim to be in compliance.
+## .   Quality management system auditing
+- (a)   As  part  of  the  assessment  of  the  quality  management  system,  a  notified  body  shall  prior  to  an  audit  and  in accordance with its documented procedures:
+- -  assess  the  documentation  submitted  in  accordance  with  the  relevant  conformity  assessment  Annex,  and draw  up  an  audit  programme  which  clearly  identifies  the  number  and  sequence  of  activities  required  to demonstrate complete coverage of a manufacturer's quality management system and to determine whether it  meets the requirements of this Regulation,
+- -  identify  links  between,  and  allocation  of  responsibilities  among,  the  various  manufacturing  sites,  and identify relevant suppliers and/or subcontractors of the manufacturer, and consider the need to specifically audit any of  those suppliers or subcontractors or both,
+- -  clearly  define,  for  each  audit  identified  in  the  audit  programme,  the  objectives,  criteria  and  scope  of  the audit,  and  draw  up  an  audit  plan  that  adequately  addresses  and  takes account of  the  specific  requirements for  the devices, technologies and processes involved,
+- -  draw  up  and  keep  up  to  date,  for  class  IIa  and  class  IIb  devices,  a  sampling  plan  for  the  assessment  of technical documentation as referred to in Annexes II and III covering the range of such devices covered by the  manufacturer's  application.  That  plan  shall  ensure  that  all  devices  covered  by  the  certificate  are sampled over the period of validity of the certificate, and
+- -  select  and  assign  appropriately  qualified  and  authorised  personnel  for  conducting  the  individual  audits. The  respective  roles,  responsibilities  and  authorities  of  the  team  members  shall  be  clearly  defined  and documented.
+- (b)   Based  on  the  audit  programme  it  has  drawn  up,  the  notified  body  shall,  in  accordance  with  its  documented procedures:
+- -  audit  the  manufacturer's  quality  management  system,  in  order  to  verify  that  the  quality  management system ensures that the devices covered conform to the relevant provisions of this Regulation which apply to  devices  at  every  stage,  from  design  through  final  quality  control  to  ongoing  surveillance,  and  shall determine whether the requirements of this Regulation are met,
+- -  based  on  relevant  technical  documentation  and  in  order  to  determine  whether  the  manufacturer  meets the  requirements  referred  to in  the  relevant  conformity  assessment  Annex,  review  and  audit  the  manufac­ turer's processes and subsystems, in particular for:
+- -  design and development,
+- -  production and process controls,
+- -  product documentation,
+- -  purchasing controls including verification of purchased devices,
+- -  corrective and preventive actions, including for post-market surveillance, and
+- -  PMCF,
+and  review  and  audit  requirements  and  provisions  adopted  by  the  manufacturer,  including  those  in relation to fulfilling the general safety and performance requirements set out in Annex I. The documentation shall be sampled in such a manner as to reflect the risks associated with the intended use  of  the  device,  the  complexity  of  the  manufacturing  technologies,  the  range  and  classes  of  devices produced and any available post-market surveillance information,
+- -  if  not  already  covered  by  the  audit  programme,  audit  the  control  of  processes  on  the  premises  of  the manufacturer's  suppliers,  when  the  conformity  of  finished  devices  is  significantly  influenced  by  the activity  of  suppliers  and,  in  particular  when  the  manufacturer  cannot  demonstrate  sufficient  control  over its  suppliers,
+- -  conduct  assessments  of  the  technical  documentation  based  on  its  sampling  plan  and  taking  account  of Sections . and . for pre-clinical and clinical evaluations, and
+- -  the notified body shall ensure that audit findings are appropriately and consistently classified in accordance  with  the  requirements  of  this  Regulation  and  with  relevant  standards,  or  with  best  practice documents developed or adopted by the MDCG.
+## .   Product verification
+Assessment of the technical documentation
+For  assessment  of  the  technical  documentation  conducted  in  accordance  with  Chapter  II  of  Annex  IX,  notified bodies shall have sufficient expertise, facilities and documented procedures for:
+- -  the  allocation  of  appropriately  qualified  and  authorised  personnel  for  the  examination  of  individual  aspects such as use of the device, biocompatibility, clinical evaluation, risk management, and sterilisation, and
+- -  the  assessment  of  conformity  of  the  design  with  this  Regulation,  and  for  taking  account  of  Sections  . to  .  

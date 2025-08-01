@@ -1,0 +1,1 @@
+- 3. Clinical  investigations  shall  be  designed  and  conducted  in  such a way  that  the  rights,  safety,  dignity  and  well-being of  the  subjects  participating  in  a  clinical  investigation  are  protected  and  prevail  over  all  other  interests  and  the  clinical data generated are scientifically valid, reliable and robust.

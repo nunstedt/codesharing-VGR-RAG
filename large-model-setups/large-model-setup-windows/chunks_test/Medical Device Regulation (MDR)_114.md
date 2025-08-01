@@ -1,0 +1,36 @@
+Such  personnel  shall  be  integrated throughout the notified body's assessment and decision-making process in order to:
+- -  identify  when  specialist  input  is  required  for  the  assessment  of  the  clinical  evaluation  conducted  by  the manufacturer and identify appropriately qualified experts;
+- -  appropriately  train  external  clinical  experts  in  the  relevant  requirements  of  this  Regulation,  CS,  guidance  and harmonised  standards  and  ensure  that  the  external  clinical  experts  are  fully  aware  of  the  context  and implications of their assessment and the advice they provide;
+- -  be able to review and scientifically challenge the clinical data contained within the clinical evaluation, and any associated  clinical  investigations,  and  appropriately  guide  external  clinical  experts  in  the  assessment  of  the clinical evaluation presented by the manufacturer;
+- -  be able to scientifically evaluate and, if necessary, challenge the clinical evaluation presented, and the results of the external clinical experts' assessment of the manufacturer's clinical evaluation;
+- -  be able to ascertain the comparability and consistency of  the assessments of clinical evaluations conducted by clinical experts;
+- -  be  able  to  make  an  assessment  of  the  manufacturer's  clinical  evaluation  and  a  clinical  judgement  of  the opinion  provided  by  any  external  expert  and  make  a  recommendation  to  the  notified  body's  decision  maker; and
+- -  be able to draw up records and reports demonstrating that the relevant conformity assessment activities have been appropriately carried out.
+- .   The personnel responsible for carrying out product-related reviews (product reviewers), such as technical documentation reviews or type examination, including aspects such as clinical evaluation, biological safety, sterili­ sation and software validation, shall have all of the following proven qualifications:
+- -  successful  completion  of  a  university  or  a  technical  college  degree  or  equivalent  qualification  in  relevant studies, e.g. medicine, pharmacy, engineering or other relevant sciences;
+- - four years' professional experience in the field of healthcare products or  related activities, such as in manufac­ turing,  auditing  or  research,  of  which  two  years  shall  be  in  the  design,  manufacture,  testing  or  use  of  the device or  technology to be assessed or related to the scientific aspects to be assessed;
+- -  knowledge  of  device  legislation,  including  the  general  safety  and  performance  requirements  set  out  in Annex I;
+- -  appropriate knowledge and experience of relevant harmonised standards, CS and guidance documents;
+- -  appropriate  knowledge  and  experience  of  risk  management  and  related  device  standards  and  guidance documents;
+- -  appropriate knowledge and experience of clinical evaluation;
+- -  appropriate knowledge of the devices which they are assessing;
+- -  appropriate  knowledge  and  experience  of  the  conformity  assessment  procedures  laid  down  in  Annexes  IX to  XI,  in  particular  of  the  aspects  of  those  procedures  for  which  they  are  responsible,  and  adequate  authoris­ ation for carrying out those assessments;
+- -  the  ability  to  draw  up  records  and  reports  demonstrating  that  the  relevant  conformity  assessment  activities have been appropriately carried out.
+- .   The personnel responsible for carrying out audits of the manufacturer's quality management system (site auditors) shall have all of  the following proven qualifications:
+- -  successful  completion  of  a  university  or  a  technical  college  degree  or  equivalent  qualification  in  relevant studies, such as medicine, pharmacy, engineering or other relevant sciences;
+- - four years' professional experience in the field of healthcare products or  related activities, such as in manufac­ turing, auditing or research, of which two years shall be in the area of quality management;
+- -  appropriate  knowledge  of  devices  legislation  as  well  as  related  harmonised  standards,  CS  and  guidance documents;
+- -  appropriate  knowledge  and  experience  of  risk  management  and  related  device  standards  and  guidance documents;
+- -  appropriate knowledge of quality management systems and related standards and guidance documents;
+- -  appropriate  knowledge  and  experience  of  the  conformity  assessment  procedures  laid  down  in  Annexes  IX to  XI,  in  particular  of  the  aspects  of  those  procedures  for  which  they  are  responsible,  and  adequate  authoris­ ation for carrying out those audits;
+- -  training in auditing techniques enabling them to challenge quality management systems;
+- -  the  ability  to  draw  up  records  and  reports  demonstrating  that  the  relevant  conformity  assessment  activities have been appropriately carried out.
+- .   The personnel with overall responsibility for final reviews and decision-making on certification shall be employed by  the  notified  body  itself  and  shall  not  be  external  experts  or  be  subcontracted.  Those  personnel  shall,  as a group, have proven knowledge and comprehensive experience of all of the following:
+- -  devices legislation and relevant guidance documents;
+- -  the device conformity assessments relevant to this Regulation;
+- -  the types of qualifications, experience and expertise relevant to device conformity assessment;
+- -  a broad base of knowledge of device technologies, including sufficient experience of conformity assessment of devices being reviewed for certification, the device industry and the design and manufacture of devices;
+- -  the  notified body's quality management  system,  related  procedures  and  the  required qualifications for personnel involved;
+- -  the  ability  to  draw  up  records  and  reports  demonstrating  that  the  conformity  assessment  activities  have  been appropriately carried out.
+- . Documentation of qualification, training and authorisation of personnel
+- .   The  notified  body  shall  have  a  procedure  in  place  to  fully  document  the  qualification  of  each  member  of personnel involved in  conformity  assessment  activities  and  the  satisfaction  of  the  qualification  criteria  referred  to in Section . Where  in  exceptional  circumstances  the  fulfilment of the qualification criteria set out in Section  .  cannot  be  fully  demonstrated,  the  notified  body  shall  justify  to  the  authority  responsible  for  notified bodies the authorisation of those members of personnel to carry out specific conformity assessment activities.

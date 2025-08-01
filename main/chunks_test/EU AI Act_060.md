@@ -1,0 +1,15 @@
+- 4. Where  the  Commission  ascertains  that  a  notified  body  does  not  meet  or  no  longer  meets  the  requirements  for  its notification, it shall inform the notifying Member State accordingly and request it to take the necessary corrective measures, including the suspension or withdrawal of the notification if necessary. Where the Member State fails to take the necessary corrective measures, the Commission may, by means of an implementing act, suspend, restrict or withdraw the designation. That  implementing act  shall  be  adopted  in  accordance  with  the  examination  procedure  referred  to  in  Article  98(2).
+## Article  38
+## Coordination of notified bodies
+- 1. The  Commission  shall  ensure  that,  with  regard  to  high-risk  AI  systems,  appropriate  coordination  and  cooperation between notified  bodies  active  in  the  conformity  assessment  procedures  pursuant  to this  Regulation  are  put  in place  and properly operated  in  the  form  of  a  sectoral  group  of  notified  bodies.
+- 2. Each notifying authority shall ensure  that the bodies  notified  by it participate in  the  work of a  group  referred to in paragraph 1,  directly or  through  designated  representatives.
+- 3. The Commission shall provide for  the  exchange of  knowledge and best practices  between  notifying authorities.
+## Article  39
+## Conformity assessment bodies of  third countries
+Conformity  assessment  bodies  established  under  the  law  of  a  third  country  with  which  the  Union  has  concluded  an agreement may be authorised to carry out the activities of notified bodies under  this Regulation, provided that they meet the  requirements  laid  down  in  Article  31  or  they  ensure  an  equivalent  level  of  compliance.
+## SECTION 5
+## Standards, conformity assessment, certificates,  registration
+Article  40
+## Harmonised standards and standardisation deliverables
+- 1. High-risk  AI  systems  or  general-purpose  AI  models  which  are  in  conformity  with  harmonised  standards  or  parts thereof  the  references  of  which  have  been  published  in  the Official  Journal  of  the  European  Union in  accordance  with Regulation (EU) No 1025/2012 shall be presumed to be in conformity with the requirements set out in Section 2 of this Chapter or, as applicable, with the obligations set out in of Chapter V, Sections 2 and 3, of this Regulation, to the extent that those  standards  cover  those  requirements  or  obligations.
+- 2. In accordance with Article 10 of Regulation (EU) No 1025/2012, the Commission shall issue, without undue delay, standardisation requests  covering all  requirements  set out  in  Section  2  of  this  Chapter  and,  as  applicable,  standardisation requests covering obligations set out in Chapter V, Sections 2 and 3, of  this Regulation. 

@@ -1,0 +1,1 @@
+- 4.   Equipment  intended  to  be  used  to  reduce,  remove  or  destroy  adipose  tissue,  such  as  equipment  for  liposuction, lipolysis or lipoplasty.

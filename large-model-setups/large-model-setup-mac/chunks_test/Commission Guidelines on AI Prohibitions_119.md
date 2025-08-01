@@ -1,0 +1,1 @@
+This watchlist  includes  persons  suspected  of  having  committed  a  crime  (ranging  from serious crimes to frauds and burglaries), persons of possible interests for intelligence purposes, and vulnerable persons with mental issues. The police's use of live facial recognition technologies is not linked to information concerning the presence of a specific person at the event. 

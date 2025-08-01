@@ -1,0 +1,30 @@
+It  shall  apply from 26 May 2020.
+- 3. By way of derogation from paragraph 2:
+- (a)   Articles  35  to 50  shall  apply  from  26  November 2017. However, from that date until 26 May 2020, the obligations on  notified  bodies  pursuant  to  Articles  35  to  50  shall  apply  only  to  those  bodies  which  submit  an  application  for designation in accordance with Article 38;
+- (b)   Articles 101 and 103 shall apply from 26 November 2017;
+- (c)   Article 102 shall apply from 26 May 2018;
+- (d)   without  prejudice  to  the  obligations  on  the  Commission  pursuant  to  Article  34,  where,  due  to  circumstances  that could  not  reasonably  have  been  foreseen  when  drafting  the  plan  referred  to  in  Article  34(1),  Eudamed  is  not  fully functional  on  26  May  2020,  the  obligations  and  requirements  that  relate  to  Eudamed  shall  apply  from  the  date corresponding  to  six  months  after  the  date  of  publication  of  the  notice  referred  to  in  Article  34(3).  The  provisions referred to in the preceding sentence are:
+- -  Article 29,
+- -  Article 31,
+- -  Article 32,
+- -  Article 33(4),
+- -  the second sentence of Article 40(2),
+- -  Article 42(10),
+- -  Article 43(2),
+- -  the second subparagraph of Article 44(12),
+- -  points (d) and (e) of Article 46(7),
+- -  Article 53(2),
+- -  Article 54(3),
+- -  Article 55(1),
+- -  Articles 70 to 77,
+- -  paragraphs 1 to 13 of Article 78,
+- -  Articles 79 to 82,
+- -  Article 86(2),
+- -  Articles 87 and 88,
+- -  Article 89(5) and (7), and the third subparagraph of Article 89(8), - -  Article 90,
+- -  Article 93(4), (7) and (8),
+- -  Article 95(2) and (4),
+- -  the last sentence of Article 97(2),
+- -  Article 99(4),
+- -  the second sentence of the first subparagraph of Article 120(3).
+Until  Eudamed  is  fully  functional,  the  corresponding  provisions  of  Directives  90/385/EEC  and  93/42/EEC  shall continue  to  apply  for  the  purpose  of  meeting  the  obligations  laid  down  in  the  provisions  listed  in  the  first paragraph  of  this  point  regarding  exchange  of  information  including,  and  in  particular,  information  regarding vigilance  reporting,  clinical  investigations,  registration  of  devices  and  economic  operators,  and  certificate  notifi­ cations.

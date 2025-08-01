@@ -1,0 +1,1 @@
+The  data  shall  be  entered  into  Eudamed  by  the  Member  States,  notified  bodies,  economic  operators  and  sponsors as  specified  in  the  provisions  on  the  electronic  systems  referred  to  in  paragraph  2.  The  Commission  shall  provide  for technical and administrative support to users of Eudamed.

@@ -1,0 +1,22 @@
+- 1. DEVICE DESCRIPTION AND SPECIFICATION, INCLUDING VARIANTS AND ACCESSORIES
+- .   Device description and specification
+- (a)   product  or  trade  name  and  a  general  description  of  the  device  including  its  intended  purpose  and  intended users;
+- (b)   the  Basic  UDI-DI  as  referred  to  in  Part  C  of  Annex  VI  assigned  by  the  manufacturer  to  the  device  in  question, as  soon  as  identification  of  this  device  becomes  based  on  a  UDI  system,  or  otherwise  a  clear  identification  by means of product code, catalogue number or other unambiguous reference allowing traceability;
+- (c)   the  intended  patient  population  and  medical  conditions  to  be  diagnosed,  treated  and/or  monitored  and  other considerations such as patient selection criteria, indications, contra-indications, warnings;
+- (d)   principles of operation of  the device and its mode of action, scientifically demonstrated if necessary;
+- (e)   the  rationale for  the qualification of  the product as a device;
+- (f) the  risk class of the  device  and  the  justification  for the  classification  rule(s)  applied  in  accordance  with Annex VIII;
+- (g)   an  explanation of any novel features;
+- (h)   a  description  of  the  accessories  for  a  device,  other  devices  and  other  products  that  are  not  devices,  which  are intended to be used in combination with it;
+- (i) a  description  or  complete  list  of  the  various  configurations/variants  of  the  device  that  are  intended  to  be  made available on the market;
+- (j) a general description of the key functional elements, e.g. its parts/components (including software if appropriate), its formulation, its composition, its functionality and, where relevant, its qualitative and quantitative  composition.  Where  appropriate,  this  shall  include  labelled  pictorial  representations  (e.g.  diagrams, photographs,  and  drawings), clearly indicating key  parts/components,  including sufficient explanation to understand the drawings and diagrams;
+- (k)   a  description  of  the  raw  materials  incorporated  into  key  functional  elements  and  those  making  either  direct contact  with  the  human  body or  indirect  contact  with  the  body,  e.g.,  during  extracorporeal  circulation  of  body fluids;
+- (l) technical specifications,  such  as  features,  dimensions  and  performance  attributes,  of the  device  and  any variants/configurations  and  accessories  that  would  typically  appear  in  the  product  specification  made  available to the user, for example in brochures, catalogues and similar publications.
+- .   Reference to previous and similar generations of the device
+- (a)   an  overview of  the  previous  generation or  generations  of  the  device  produced  by the manufacturer,  where such devices exist;
+- (b)   an  overview  of  identified  similar  devices  available  on  the  Union  or  international  markets,  where  such  devices exist.
+- 2. INFORMATION TO BE SUPPLIED BY THE MANUFACTURER
+## A complete set of:
+- -  the  label  or  labels  on  the  device  and  on  its  packaging,  such  as  single  unit  packaging,  sales  packaging,  transport packaging in case of specific management conditions, in the languages accepted in the Member States where the device is envisaged to be sold; and
+- -  the  instructions  for  use  in  the  languages  accepted  in  the  Member  States  where  the  device  is  envisaged  to  be sold.
+## 3. 

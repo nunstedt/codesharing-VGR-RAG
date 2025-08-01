@@ -1,0 +1,4 @@
+In  order  to  ensure  the  uniform  application  of  the  requirements  laid  down  in  Chapter  II  of  Annex  XV,  the Commission  may  adopt  implementing  acts  to  the  extent  necessary  to  resolve  issues  of  divergent  interpretation  and  of practical  application.  Those  implementing  acts  shall  be  adopted  in  accordance  with  the  examination  procedure  referred to in Article 114(3).
+## Article 71
+## Assessment by Member States
+- 1. Member States shall ensure that the persons validating and assessing the application, or deciding on it, do not have conflicts  of  interest,  are  independent  of  the  sponsor,  the  investigators  involved  and  of  natural  or  legal  persons  financing the clinical investigation, as well as free of any other  undue influence. 

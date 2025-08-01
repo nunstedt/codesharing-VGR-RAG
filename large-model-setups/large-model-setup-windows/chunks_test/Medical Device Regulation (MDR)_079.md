@@ -1,0 +1,16 @@
+Manufacturers shall establish, implement, document and maintain a risk management system.
+- Risk  management  shall  be  understood  as  a  continuous  iterative  process  throughout  the  entire  lifecycle  of a device, requiring regular systematic updating. In carrying out risk management manufacturers shall:
+- (a)   establish  and document a risk management plan for each device;
+- (b)   identify and analyse the known and foreseeable hazards associated with each device;
+- (c)   estimate and  evaluate  the  risks associated  with,  and  occurring  during,  the  intended  use  and  during reasonably foreseeable misuse;
+- (d)   eliminate or control the risks referred to in point (c) in accordance with the requirements of Section 4;
+- (e)   evaluate  the  impact  of  information  from  the  production  phase  and,  in  particular,  from  the  post-market surveillance  system,  on  hazards  and  the  frequency  of  occurrence  thereof,  on  estimates  of  their  associated risks, as well as on the overall risk, benefit-risk ratio and risk acceptability; and
+- (f)   based  on  the  evaluation  of  the  impact  of  the  information  referred  to  in  point  (e),  if  necessary  amend control measures in line with the requirements of Section 4.
+- 4. Risk  control  measures  adopted  by  manufacturers  for  the  design  and  manufacture  of  the  devices  shall  conform to  safety  principles,  taking  account  of  the  generally  acknowledged  state  of  the  art.  To  reduce  risks,  Manufac­ turers shall manage risks so that the residual risk associated with each hazard as well as the overall residual risk is  judged  acceptable.  In  selecting  the  most  appropriate  solutions,  manufacturers  shall,  in  the  following  order  of priority:
+- (a)   eliminate or  reduce risks as far as possible through safe design and manufacture;
+- (b)   where  appropriate,  take  adequate  protection  measures,  including  alarms  if  necessary,  in  relation  to  risks that cannot be eliminated; and
+- (c)   provide  information for safety (warnings/precautions/contra-indications) and, where appropriate, training to users.
+Manufacturers shall inform users of any residual risks.
+- 5. In eliminating or reducing risks related to use error, the manufacturer shall:
+- (a)   reduce  as  far  as  possible  the  risks  related  to  the  ergonomic  features  of  the  device  and  the  environment  in which the device is intended to be used (design for patient safety), and
+- (b)   give  consideration  to  the  technical  knowledge,  experience,  education,  training  and  use  environment,  where applicable,  and  the  medical  and  physical  conditions  of  intended  users  (design  for  lay,  professional,  disabled or other users). - 6. The characteristics  and  performance  of a  device  shall  not  be  adversely  affected  to  such  a  degree  that  the  health or safety of  the patient or  the user and, where applicable, of other  persons are compromised during the lifetime of  the  device,  as  indicated  by  the  manufacturer,  when  the  device  is  subjected  to  the  stresses  which  can  occur during  normal  conditions  of  use  and  has  been  properly  maintained  in  accordance  with  the  manufacturer's instructions.

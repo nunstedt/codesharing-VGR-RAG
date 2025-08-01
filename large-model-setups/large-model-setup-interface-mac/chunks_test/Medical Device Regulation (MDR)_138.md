@@ -1,0 +1,5 @@
+EU  type-examination  is  the  procedure  whereby  a  notified  body  ascertains  and  certifies  that  a  device,  including  its technical  documentation  and  relevant  life  cycle  processes  and  a  corresponding  representative  sample  of  the  device production envisaged, fulfils the relevant provisions of this Regulation.
+## 2. Application
+The manufacturer shall lodge an application for assessment with a notified body. The application shall include:
+- -  the  name  of  the  manufacturer  and  address  of  the  registered  place  of  business  of  the  manufacturer  and,  if  the application  is  lodged  by  the  authorised  representative,  the  name  of  the  authorised  representative  and  the address of its registered place of business,
+- -  the technical documentation referred to in Annexes II and III.  The  applicant shall  make a  representative  sample of  the  device  production  envisaged  ('type')  available  to  the  notified  body.  

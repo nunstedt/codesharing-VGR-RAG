@@ -1,0 +1,2 @@
+&amp;  Valkenburg,  P.  M.  Social  Media  and  Distraction:  An  Experience  Sampling  Study  among Adolescents. Media Psychology 25, 343-366 (2022).
+91 Laestadius, L., Bishop, A., Gonzalez, M., Illenčík, D. &amp; Campos-Castillo, C. Too human and not human enough: A grounded theory analysis of  mental  health  harms  from  emotional  dependence  on  the  social  chatbot  Replika.  

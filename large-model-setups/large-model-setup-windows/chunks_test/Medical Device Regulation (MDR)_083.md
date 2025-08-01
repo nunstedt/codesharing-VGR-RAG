@@ -1,0 +1,6 @@
+When deemed  appropriate  on  the  basis  of  the  latest  scientific  evidence,  but  at  least  every  five  years,  the  guidelines shall be updated.
+( 1 ) Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 ( OJ L 353, , p. 1).
+( 2 ) Regulation  (EC)  No  1907/2006  of  the  European  Parliament  and  of  the  Council  of  18  December  2006  concerning  the  Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH) (OJ L 396, , p. 1).
+( 3 ) Regulation (EU) No 528/2012 of the European Parliament and the Council of 22 May 2012 concerning the making available on the market of and use of biocidal products (OJ L 167, , p. 1). ## .   Guidelines on other CMR and endocrine-disrupting substances
+Subsequently, the Commission shall mandate the relevant scientific committee to prepare guidelines as referred to  in  Section  .  also  for  other  substances  referred  to  in  points  (a)  and  (b)  of  Section  .,  where appropriate.
+## . 

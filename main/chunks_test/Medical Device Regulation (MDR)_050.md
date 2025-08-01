@@ -1,0 +1,2 @@
+- 6. The subject shall be informed that a clinical investigation report and a summary presented in terms understandable to  the  intended  user  will  be  made  available  pursuant  to  Article  77(5)  in  the  electronic  system  on  clinical  investigations referred  to  in  Article  73  irrespective  of  the  outcome  of  the  clinical  investigation,  and  shall  be  informed,  to  the  extent possible, when they have become available.
+- 7. 

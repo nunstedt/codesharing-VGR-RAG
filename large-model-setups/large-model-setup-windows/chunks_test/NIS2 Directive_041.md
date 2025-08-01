@@ -1,0 +1,3 @@
+The results  of  any  targeted  security  audit  shall  be  made  available  to  the  competent  authority.  The  costs  of  such  targeted security  audit  carried  out  by  an  independent  body  shall  be  paid  by  the  audited  entity,  except  in  duly  substantiated  cases when the competent authority decides otherwise.
+- 3. When exercising their powers under paragraph 2, point (d), (e) or (f), the competent authorities shall state the purpose of the request and specify the information requested.
+- 4. 

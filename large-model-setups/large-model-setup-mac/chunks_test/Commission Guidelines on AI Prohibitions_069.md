@@ -1,0 +1,1 @@
+The  AI  Act  allows  for  such  experimentation  by recognising that early-stage R&amp;D is essential for refining AI technologies and ensuring that they meet safety and ethical standards prior to their placing on the market.

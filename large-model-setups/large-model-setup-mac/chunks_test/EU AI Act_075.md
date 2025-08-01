@@ -1,0 +1,10 @@
+- 3. Each representative  shall  be  designated  by  their  Member  State  for  a  period  of  three  years,  renewable  once.
+- 4. Member States shall ensure  that  their  representatives  on  the  Board:
+- (a) have the relevant competences and powers in their Member State so as to contribute actively to the achievement of the Board's  tasks  referred  to  in  Article  66;
+- (b) are designated as a single contact point vis-à-vis the Board and, where appropriate, taking into account Member States' needs,  as  a  single  contact  point  for  stakeholders;
+- (c) are empowered to facilitate consistency and coordination between national competent authorities in their Member State as regards the implementation of this Regulation, including through the collection of relevant data and information for the  purpose  of  fulfilling  their  tasks  on  the  Board.
+- 5. The  designated  representatives  of  the  Member  States  shall  adopt  the  Board's  rules  of  procedure  by  a  two-thirds majority.  The  rules  of  procedure  shall,  in  particular,  lay  down  procedures  for  the  selection  process,  the  duration  of  the mandate  of,  and  specifications  of  the  tasks  of,  the  Chair,  detailed  arrangements  for  voting,  and  the  organisation  of  the Board's  activities  and  those  of  its  sub-groups.
+- 6. The Board shall establish two standing sub-groups to provide a platform for cooperation and exchange among market surveillance authorities and notifying authorities about issues related to market surveillance and notified bodies respectively.
+The  standing  sub-group  for  market  surveillance  should  act  as  the  administrative  cooperation  group  (ADCO)  for  this Regulation within  the  meaning  of  Article  30  of  Regulation  (EU)  2019/1020.
+The  Board  may  establish  other  standing  or  temporary  sub-groups  as  appropriate  for  the  purpose  of  examining  specific issues. Where appropriate, representatives of the advisory forum referred to in Article 67 may be invited to such sub-groups or  to  specific  meetings  of  those  subgroups  as  observers.
+- 7. 

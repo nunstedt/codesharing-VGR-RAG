@@ -1,0 +1,13 @@
+name  address  and  contact  details  of  the  person  or  persons  responsible  for  regulatory  compliance  referred  to  in Article 15.
+- 2. Information relating to the device
+- . Basic UDI-DI,
+- . type,  number  and  expiry  date  of  the  certificate  issued  by  the  notified  body  and  the  name  or  identification number of  that notified  body and  the  link  to the  information  that  appears  on  the  certificate  and  was  entered  by the notified body in the electronic system on notified bodies and certificates,
+- . Member State in which the device is to or has been placed on the market in the Union,
+- . in the case of class IIa, class IIb or class III devices: Member States where the device is or is to be made available,
+- . risk class of  the device,
+- . reprocessed single-use device (y/n),
+- . presence of a substance which, if used separately, may be considered to be a medicinal product and name of that substance,
+- . presence  of  a  substance  which,  if  used  separately,  may  be  considered  to  be  a  medicinal  product  derived  from human blood or human plasma and name of this substance,
+- . presence of tissues or cells of human origin, or  their derivatives (y/n),
+- . presence  of  tissues  or  cells  of  animal  origin,  or  their  derivatives,  as  referred  to  in  Regulation  (EU)  No  722/2012 (y/n),
+- . 

@@ -1,0 +1,1 @@
+It  is  also  particularly  important  that,  by  the  date  of  application  of  this Regulation,  a  sufficient  number  of  notified  bodies  be  designated  in  accordance  with  the  new  requirements  so  as to  avoid  any  shortage  of  medical  devices  on  the  market.  

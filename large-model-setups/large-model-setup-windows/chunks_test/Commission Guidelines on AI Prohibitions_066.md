@@ -1,0 +1,1 @@
+Denmark benefits from opt-out agreements when applying Protocol No. 

@@ -1,0 +1,1 @@
+This  Regulation  is  without  prejudice  to  national  law  requiring  that,  in  addition  to  the  informed  consent  given  by the legally designated representative, a minor  who is capable of forming an opinion and assessing the information given to him or her, shall also assent in order  to participate in a clinical investigation.

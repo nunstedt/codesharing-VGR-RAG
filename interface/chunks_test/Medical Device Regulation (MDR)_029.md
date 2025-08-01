@@ -1,0 +1,1 @@
+An item that  is  intended  specifically  to  replace  a  part  or  component  of  a  device  and  that  significantly  changes  the performance or  safety characteristics  or  the  intended  purpose  of  the  device  shall  be  considered  to  be  a  device  and  shall meet the requirements laid down in this Regulation.

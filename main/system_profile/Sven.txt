@@ -1,0 +1,1 @@
+Sven is a medication distribution system used by internal staff at VGR. The system handles health data and operates within a hybrid environment. Sven incorporates AI components for analysis purposes. Access to Sven is secured via VPN. The system is classified as low criticality, meaning that its loss would only result in a minor impact.

@@ -1,0 +1,3 @@
+signs  of  material  degradation  or  the maximum number of allowable reuses;
+- (o) an indication, if appropriate, that a device can be reused only if it is reconditioned under  the responsibility of  the manufacturer to comply with the general safety and performance requirements;
+- (p) if  the  device  bears  an  indication  that  it  is  for  single  use,  information  on  known  characteristics  and technical  factors  known  to  the  manufacturer  that  could  pose  a  risk  if  the  device  were  to  be  re-used.  This information  shall  be  based  on  a  specific  section  of  the  manufacturer's  risk  management  documentation, where such characteristics and technical factors shall be addressed in detail. 

@@ -1,0 +1,5 @@
+The TriageGo system is designed to assist triage nurses in emergency departments by helping them prioritize patients. It achieves this by analyzing data from wearable devices in conjunction with symptom descriptions gathered upon a patient's arrival. Its primary users are medical specialists, specifically triage nurses.
+
+Given its function, TriageGo processes sensitive information, including personal and health data. Consequently, access to the system is restricted to the internal network only, ensuring data security. The system operates within a hybrid host environment.
+
+A key feature of TriageGo is its integration of artificial intelligence. AI components are specifically utilized to analyze the wearable device data, identifying and alerting staff to any alarming trends that may indicate a patient's deteriorating condition. Despite its role in patient prioritization, TriageGo is classified with a low criticality level, meaning its loss would have only a minor impact on operations.

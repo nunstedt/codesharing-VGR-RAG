@@ -1,0 +1,20 @@
+{
+  "system_name": "OpPlan",
+  "functionality": "A system used to schedule planned surgeries within primary-care, handling information from the moment a surgery is requested to when it has been performed.",
+  "users": [
+    "Specialists"
+  ],
+  "data": [
+    "Personal data",
+    "Health data"
+  ],
+  "environment": [
+    "On-premisse"
+  ],
+  "ai_system": false,
+  "ai_components": "",
+  "accessability": [
+    "Internal network only"
+  ],
+  "criticality": "Medium \u2013 operational impact"
+}

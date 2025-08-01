@@ -1,0 +1,3 @@
+13).
+- ( 24 ) Regulation  (EU)  2022/2065  of  the  European  Parliament  and  of  the  Council  of  19  October  2022  on  a  Single  Market  For  Digital Services and amending Directive 2000/31/EC (Digital Services Act) (OJ L 277, , p. 1).
+- ( 25 ) Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, , p. 39).

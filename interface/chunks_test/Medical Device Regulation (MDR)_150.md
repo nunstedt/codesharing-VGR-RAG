@@ -1,0 +1,2 @@
+Clinical Investigation Plan
+The  clinical  investigation  plan  (CIP)  shall  set  out  the  rationale,  objectives,  design  methodology,  monitoring, conduct,  record-keeping  and  the  method  of  analysis  for  the  clinical  investigation.  It  shall  contain  in  particular the  information  as  laid  down  in  this  Annex.  

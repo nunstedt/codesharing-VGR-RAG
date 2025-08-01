@@ -1,0 +1,1 @@
+The statement referred to in the introductory part of Section 1 shall be kept for a period of at least 10 years after  the device has been placed on the market. 

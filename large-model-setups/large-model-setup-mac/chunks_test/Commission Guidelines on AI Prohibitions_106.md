@@ -1,0 +1,2 @@
+218 This means that 'the law enforcement authority should in such situations request such authorisation while providing the reasons for not having been able to request it earlier, without undue delay and at the latest within 24 hours'. (Recital 35 AI Act). 219 Recital 35 AI Act.
+subject to appropriate safeguards and conditions ,  as  determined in national law and specified  in  the  context  of  each  individual  urgent  use  case  by  the  law  enforcement authority itself'.
