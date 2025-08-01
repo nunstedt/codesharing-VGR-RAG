@@ -23,17 +23,12 @@ This directory contains the large model implementation optimized for macOS syste
    make up
    ```
 
-3. **Install dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Run the application:**
+3. **Run the application:**
    ```bash
    streamlit run Overview.py
    ```
 
-5. **Access the interface:**
+4. **Access the interface:**
    Open your browser to `http://localhost:8501`
 
 ## Files and Directories

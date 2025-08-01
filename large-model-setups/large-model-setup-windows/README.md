@@ -23,9 +23,9 @@ This directory contains the large model implementation optimized for Windows sys
    make up
    ```
 
-3. **Install dependencies:**
+3. **Export model locally (first time only):**
    ```cmd
-   pip install -r requirements.txt
+   python model_onnx_export.py
    ```
 
 4. **Run the application:**
